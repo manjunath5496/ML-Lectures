@@ -616,6 +616,54 @@ Attacks on Neural Networks</a></li>
  
  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(71).pdf" style="text-decoration:none;">Trojaning Attack on Neural Networks</a></li>
  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(72).pdf" style="text-decoration:none;"> Learning Conjunctive Concepts in Structural Domains</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(73).pdf" style="text-decoration:none;">Reducing Multiclass to Binary:
+A Unifying Approach for Margin Classifiers</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(74).pdf" style="text-decoration:none;">Approximation and estimation bounds for artificial neural networks</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(75).pdf" style="text-decoration:none;">Training a 3-Node Neural Network is
+NP-Complete</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(76).pdf" style="text-decoration:none;">Online Passive-Aggressive Algorithms</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(77).pdf" style="text-decoration:none;">Adaptive Subgradient Methods for
+Online Learning and Stochastic Optimization</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(78).pdf" style="text-decoration:none;">Quantifying Inductive Bias:
+AI Learning Algorithms and Valiant's Learning Framework</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(79).pdf" style="text-decoration:none;">The Perceptron algorithm versus Winnow:
+linear versus logarithmic mistake bounds when few input variables are relevant</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(80).pdf" style="text-decoration:none;">Large Margin Classification
+Using the Perceptron Algorithm</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(81).pdf" style="text-decoration:none;">Learning Quickly When Irrelevant Attributes
+Abound: A New Linear-threshold Algorithm</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(82).pdf" style="text-decoration:none;">General Convergence Results for Linear
+Discriminant Updates</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(83).pdf" style="text-decoration:none;">Learning representations by back-propagating errors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(84).pdf" style="text-decoration:none;">Efficient Learning of Linear Perceptrons</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(85).pdf" style="text-decoration:none;">On the Computational Efficiency of Training Neural Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(86).pdf" style="text-decoration:none;">Learnability and the Vapnik-Chervonenkis Dimension</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(87).pdf" style="text-decoration:none;">Computational Limitations on Learning from Examples</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(88).pdf" style="text-decoration:none;">Learning Decision Lists</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(89).pdf" style="text-decoration:none;">A Theory of the Learnable</a></li>
+  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(90).pdf" style="text-decoration:none;">On the Uniform Convergence of Relative Frequencies of Events to Their Probabilities</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(91).pdf" style="text-decoration:none;">On-Line Algorithms in Machine Learning</a></li>
+
+ 
+ 
+ 
+ 
 </ul>
 
 
