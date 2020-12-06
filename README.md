@@ -667,7 +667,7 @@ Discriminant Updates</a></li>
 </ul>
 
 </br>
-
+<p><a><strong>Machine Learning Lecture Slides </strong>[</a><a href="http://www.cedar.buffalo.edu/~srihari">Sargur Srihari</a>]</p><hr>
 <table border="0">
 <tbody>
 <tr>
