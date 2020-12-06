@@ -372,3 +372,28 @@
   
 </ul>
 
+</br>
+
+
+<h3>C19 ML lectures [Andrew Zisserman]</h3>
+<ul>
+<li>
+<p><a href="1/lect1.pdf">Lecture 1 "Introduction"</a></p>
+</li>
+<li>
+<p><a href="1/lect2.pdf">Lecture 2 "The SVM Classifier"</a></p>
+</li>
+<li>
+<p><a href="1/lect3.pdf">Lecture 3 "SVM dual, kernels and regression"</a></p>
+</li>
+<li>
+<p><a href="1/lect4.pdf">Lecture 4 "Regression continued and multiple classes"</a></p>
+</li>
+<li><a href="1/examples.pdf">Examples sheet</a></li>
+</ul>
+
+
+
+
+
+
