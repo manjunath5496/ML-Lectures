@@ -368,5 +368,7 @@
 <li>Andrew Ng's notes on&nbsp;<a href="1/cs229-notes-deep_learning.pdf" target="_blank" rel="nofollow">Neural Networks and Deep Learning</a></li>
 <li>[Practical Tips] -&nbsp;<a href="1/lecun-98b.pdf" target="_blank" rel="nofollow">Efficient Backprop</a>&nbsp;by Yann LeCun</li>
 <li>Vapnik's paper on "<a href="1/506-principles-of-risk-minimization-for-learning-theory.pdf" target="_blank" rel="nofollow">Principles of Risk Minimization for Learning Theory</a>", NIPS 1992</li>
+ <li>Andrew Ng's &nbsp;<a href="machine-learning-4.2.pdf" target="_blank" rel="nofollow">ML Review Notes</a>&nbsp;</li> 
+  
 </ul>
 
