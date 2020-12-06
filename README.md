@@ -435,26 +435,31 @@ and Real Analysis</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(31).pdf" style="text-decoration:none;">The Variational Fair Autoencoder</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(32).pdf" style="text-decoration:none;">
-A note on the evaluation of generative models</a></li> 
+Notation: Overview</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(33).pdf" style="text-decoration:none;">Adversarial Autoencoders</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(33).pdf" style="text-decoration:none;">Lecture Notes 1: Vector spaces</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(34).pdf" style="text-decoration:none;">Neural Variational Inference for Text Processing</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(34).pdf" style="text-decoration:none;">Probability Cheatsheet</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(35).pdf" style="text-decoration:none;">Attribute2Image: Conditional Image Generation from Visual Attributes</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(35).pdf" style="text-decoration:none;">An overview of gradient descent optimization
+algorithms</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(36).pdf" style="text-decoration:none;">Latent Variable Modeling with Diversity-Inducing Mutual Angular Regularization</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(36).pdf" style="text-decoration:none;">Lecture 0: Course Introduction</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(37).pdf" style="text-decoration:none;">Autoencoding beyond pixels using a learned similarity metric</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(38).pdf" style="text-decoration:none;">Neighborhood-aware autoencoder for missing value imputation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(39).pdf" style="text-decoration:none;">Variational Inference: A Review for Statisticians</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(40).pdf" style="text-decoration:none;">Weakly-supervised Disentangling with Recurrent Transformations for 3D View Synthesis</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(41).pdf" style="text-decoration:none;">How to Train Deep Variational Autoencoders and Probabilistic Ladder Networks</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(42).pdf" style="text-decoration:none;">Generating Images with Perceptual Similarity Metrics based on Deep Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(37).pdf" style="text-decoration:none;">A Structural Approach to Selection Bias</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(38).pdf" style="text-decoration:none;">Troubleshooting Deep Neural Networks: A Field Guide to Fixing Your Model</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(39).pdf" style="text-decoration:none;">Introduction to
+Applied Linear Algebra</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(40).pdf" style="text-decoration:none;">Python For Data Science Cheat Sheet (NumPy Basics)</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(41).pdf" style="text-decoration:none;">Data Wrangling with pandas Cheat Sheet</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(42).pdf" style="text-decoration:none;">Python For Data Science Cheat Sheet
+(Scikit-Learn)</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(43).pdf" style="text-decoration:none;">Auxiliary Deep Generative Models</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(44).pdf" style="text-decoration:none;">Variational methods for Conditional Multimodal Deep Learning</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(45).pdf" style="text-decoration:none;">Variational Autoencoder for Semi-supervised Text Classification</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(43).pdf" style="text-decoration:none;">Python For Data Science Cheat Sheet
+(Keras)</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(44).pdf" style="text-decoration:none;">Data Wrangling with dplyr and tidyr Cheat Sheet</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(45).pdf" style="text-decoration:none;">Data Visualization with ggplot2
+Cheat Sheet</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(46).pdf" style="text-decoration:none;">Composing graphical models with neural networks for structured representations and fast inference</a></li> 
                              
