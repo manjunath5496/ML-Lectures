@@ -858,3 +858,34 @@ Discriminant Updates</a></li>
 </tr>
 </tbody>
 </table>
+</br>
+<p><strong>ML Course Notes [</strong><a href="http://www.cs.ox.ac.uk/people/nando.defreitas/" data-smd-id="s28">Nando de Freitas</a><strong>] </strong></p><hr>
+<ul>
+<li><strong>Lecture 1</strong>: Introduction&nbsp;<a href="3/lecture1.pdf" data-smd-id="s29">slides</a>&nbsp;</li>
+<li><strong>Lecture 2</strong>: Linear prediction&nbsp;<a href="3/lecture2.pdf" data-smd-id="s31">slides</a>&nbsp;</li>
+<li><strong>Lecture 3</strong>: Maximum likelihood&nbsp;<a href="3/lecture3.pdf" data-smd-id="s33">slides.pdf</a>&nbsp;</li>
+<li><strong>Lectures 4 &amp; 5</strong>: Regularizers, basis functions and cross-validation&nbsp;<a href="3/lecture4.pdf" data-smd-id="s35">slides.pdf</a>&nbsp;</li>
+<li><strong>Lecture 6</strong>: Optimisation&nbsp;<a href="3/lecture5.pdf" data-smd-id="s38">slides.pdf</a>&nbsp;</li>
+<li><strong>Lecture 7</strong>: Logistic regression&nbsp;<a href="3/lecture6.pdf" data-smd-id="s40">slides.pdf</a>&nbsp;</li>
+<li><strong>Lecture 8</strong>: Back-propagation and layer-wise design of neural nets&nbsp;<a href="3/lecture7.pdf" data-smd-id="s42">slides.pdf</a>&nbsp;</li>
+<li><strong>Lecture 9</strong>: Neural networks and deep learning with Torch&nbsp;<a href="3/lecture8.pdf" data-smd-id="s44">slides.pdf</a>&nbsp;</li>
+<li><strong>Lecture 10</strong>: Convolutional neural networks&nbsp;<a href="3/lecture9.pdf" data-smd-id="s46">slides.pdf</a>&nbsp;</li>
+<li><strong>Lecture 11</strong>: Max-margin learning and siamese networks&nbsp;<a href="3/lecture10.pdf" data-smd-id="s48">slides.pdf</a>&nbsp;</li>
+<li><strong>Lecture 12</strong>: Recurrent neural networks and LSTMs&nbsp;<a href="3/lecture11.pdf" data-smd-id="s50">slides.pdf</a>&nbsp;</li>
+<li><strong>Lecture 15</strong>: Reinforcement learning with direct policy search&nbsp;<a href="3/lecture12.pdf" data-smd-id="s52">slides.pdf</a>&nbsp;</li>
+<li><strong>Lecture 16</strong>: Reinforcement learning with action-value functions&nbsp;<a href="3/lecture12.pdf" data-smd-id="s54">slides.pdf</a>&nbsp;</li>
+<li><strong>Practical on week 2</strong>: (1) Learning Lua and the tensor library.&nbsp;<a href="3/practical1.pdf" data-smd-id="s58">pdf</a></li>
+<li><strong>Practical on week 3</strong>: (2) Online and batch linear regression.&nbsp;<a href="3/practical2.pdf" data-smd-id="s59">pdf</a></li>
+<li><strong>Practical on week 4</strong>: (3) Logistic regression and optimization.&nbsp;<a href="3/practical3.pdf" data-smd-id="s60">pdf</a></li>
+<li><strong>Practical on week 6</strong>: (4) Feedforward neural networks, and implementing your own layer.&nbsp;<a href="3/practical4.pdf" data-smd-id="s61">pdf</a></li>
+<li><strong>Practical on week 7</strong>: (5) Intro to nngraph for graph-shaped modules.&nbsp;<a href="3/practical5.pdf" data-smd-id="s62">pdf</a></li>
+<li><strong>Practical on week 8</strong>: (6) Training a LSTM language model.&nbsp;<a href="3/practical6.pdf" data-smd-id="s63">pdf</a></li>
+<li><strong>Class on Week 3</strong>:&nbsp;<a href="3/class1.pdf" data-smd-id="s65">Problem set</a>.&nbsp;</li>
+<li><strong>Class on Week 5</strong>:&nbsp;<a href="3/class2.pdf" data-smd-id="s66">Problem set</a>.&nbsp;</li>
+<li><strong>Class on Week 7</strong>:&nbsp;<a href="3/class3.pdf" data-smd-id="s67">Problem set</a>.&nbsp;</li>
+<li><strong>Class on Week 8</strong>:&nbsp;<a href="3/class4.pdf" data-smd-id="s68">Problem set</a>.&nbsp;</li>
+</ul>
+
+
+
+
