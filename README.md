@@ -464,7 +464,7 @@ Cheat Sheet</a></li>
    
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(46).pdf" style="text-decoration:none;">CS725 : Foundations of Machine learning - Lecture Notes</a></li> 
                              
- 
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(47).pdf" style="text-decoration:none;">Lecture Notes: Optimization for Machine Learning</a></li> 
  
  
  
