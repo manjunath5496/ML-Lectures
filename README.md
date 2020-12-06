@@ -469,6 +469,7 @@ Cheat Sheet</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(1145).pdf" style="text-decoration:none;">CS446: Machine Learning Lecture Notes</a></li> 
  
  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(96).pdf" style="text-decoration:none;">Data Science Lecture Notes</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(100).pdf" style="text-decoration:none;">Lectures on Numerical Methods for Data Science</a></li>
  
  
  
