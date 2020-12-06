@@ -1042,3 +1042,25 @@ Discriminant Updates</a></li>
 <li><a href="4/reinforcementLearning.pdf" data-smd-id="s121">Reinforcement Learning</a></li>
 <li><a href="4/assorted.pdf" data-smd-id="s122">Overview of Other Large/Notable Topics</a></li>
 </ul>
+</br>
+<h2>Lecture Notes on Data Analysis, Statistics, and Machine Learning (<a href="https://www.cs.uic.edu/~wilkinson/index.html">Leland Wilkinson</a>)</h2>
+<ul>
+<li><a href="Session%2001%20(Introduction).pdf">Introduction</a></li>
+<li><a href="Session%2002%20(Data).pdf">Data</a></li>
+<li><a href="Session%2003%20(Visualizing).pdf">Visualizing</a></li>
+<li><a href="Session%2004%20(Exploring).pdf">Exploring</a></li>
+<li><a href="Session%2005%20(Summarizing).pdf">Summarizing</a></li>
+<li><a href="Session%2006%20(Distributions).pdf">Distributions</a></li>
+<li><a href="Session%2007%20(Inference).pdf">Inference</a></li>
+<li><a href="Session%2008%20(Predicting).pdf">Predicting</a></li>
+<li><a href="Session%2009%20(Smoothing).pdf">Smoothing</a></li>
+<li><a href="Session%2010%20(Time%20Series).pdf">Time Series</a></li>
+<li><a href="Session%2011%20(Comparing).pdf">Comparing</a></li>
+<li><a href="Session%2012%20(Grouping).pdf">Grouping</a></li>
+<li><a href="Session%2013%20(Reducing).pdf">Reducing</a></li>
+<li><a href="Session%2014%20(Learning).pdf">Learning</a></li>
+<li><a href="Session%2015%20(Anomalies).pdf">Anomalies</a></li>
+<li><a href="Session%2016%20(Analyzing).pdf">Analyzing</a></li>
+</ul>
+
+
