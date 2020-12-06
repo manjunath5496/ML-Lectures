@@ -466,7 +466,7 @@ Cheat Sheet</a></li>
                              
  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(47).pdf" style="text-decoration:none;">Lecture Notes: Optimization for Machine Learning</a></li> 
  
- 
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(1145).pdf" style="text-decoration:none;">CS446: Machine Learning Lecture Notes</a></li> 
  
 </ul>
 
