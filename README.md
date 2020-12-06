@@ -354,6 +354,8 @@
 <li><a href="1/more_on_gaussians.pdf" target="_blank" rel="nofollow">Multivariate Gaussian - II</a></li>
 <li><a href="1/cs229-cvxopt.pdf" target="_blank" rel="nofollow">Convex Optimization - I</a></li>
 <li><a href="1/cs229-cvxopt2.pdf" target="_blank" rel="nofollow">Convex Optimization - II</a></li>
+<li><a href="1/cs229-hmm.pdf" target="_blank" rel="nofollow">Hidden Markov Models</a></li>  
+  
 </ul>
 </br>
 <h2> Lecture Notes </h2>
