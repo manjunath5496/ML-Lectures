@@ -356,6 +356,15 @@
 <li><a href="1/cs229-cvxopt2.pdf" target="_blank" rel="nofollow">Convex Optimization - II</a></li>
 </ul>
 </br>
-
-
+<h2> Lecture Notes </h2>
+<ul>
+<li>Andrew Ng's&nbsp;<a href="1/loss-functions.pdf" target="_blank" rel="nofollow">notes on Loss Functions</a></li>
+<li>Andrew Ng's course notes on&nbsp;<a href="1/cs229-notes1.pdf" target="_blank" rel="nofollow">Linear and Logistic Regression</a>.</li>
+<li><a href="1/1905.12787.pdf" target="_blank" rel="nofollow">The Theory Behind Overfitting, Cross Validation, Regularization, Bagging and Boosting: Tutorial</a>&nbsp;by Ghojogh and Crowley.</li>
+<li>Andrew Ng's notes on&nbsp;<a href="1/cs229-notes2.pdf" target="_blank" rel="nofollow">Naive Bayes</a>&nbsp;</li>
+<li>Andrew Ng's notes on&nbsp;<a href="1/cs229-notes3.pdf" target="_blank" rel="nofollow">SVM and Kernel Methods</a></li>
+<li>Andrew Ng's notes on&nbsp;<a href="1/cs229-notes-deep_learning.pdf" target="_blank" rel="nofollow">Neural Networks and Deep Learning</a></li>
+<li>[Practical Tips] -&nbsp;<a href="1/lecun-98b.pdf" target="_blank" rel="nofollow">Efficient Backprop</a>&nbsp;by Yann LeCun</li>
+<li>Vapnik's paper on "<a href="1/506-principles-of-risk-minimization-for-learning-theory.pdf" target="_blank" rel="nofollow">Principles of Risk Minimization for Learning Theory</a>", NIPS 1992</li>
+</ul>
 
