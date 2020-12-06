@@ -369,7 +369,22 @@
 <li>[Practical Tips] -&nbsp;<a href="1/lecun-98b.pdf" target="_blank" rel="nofollow">Efficient Backprop</a>&nbsp;by Yann LeCun</li>
 <li>Vapnik's paper on "<a href="1/506-principles-of-risk-minimization-for-learning-theory.pdf" target="_blank" rel="nofollow">Principles of Risk Minimization for Learning Theory</a>", NIPS 1992</li>
  <li>Andrew Ng's &nbsp;<a href="machine-learning-4.2.pdf" target="_blank" rel="nofollow">ML Review Notes</a>&nbsp;</li> 
-  
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(1).pdf" style="text-decoration:none;">Spectral Methods for
+Dimensionality Reduction</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(2).pdf" style="text-decoration:none;">Nonlinear Dimensionality
+Reduction by Locally Linear Embedding</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(3).pdf" style="text-decoration:none;">MATLAB Workshop 2: An introduction to Support Vector Machine implementations in MATLAB</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(4).pdf" style="text-decoration:none;">Neighbourhood Components Analysis</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(5).pdf" style="text-decoration:none;">A Global Geometric Framework
+for Nonlinear Dimensionality Reduction</a></li>
+
+ 
+ 
+ 
+ 
+ 
 </ul>
 
 </br>
