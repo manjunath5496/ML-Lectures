@@ -344,3 +344,18 @@
 </tr>
 </tbody>
 </table>
+</br>
+
+<p><strong>Andrew Ng's review notes on:</strong></p>
+<ul>
+<li><a href="1/cs229-linalg.pdf" target="_blank" rel="nofollow">Linear Algebra</a></li>
+<li><a href="1/cs229-prob.pdf" target="_blank" rel="nofollow">Probability Theory</a></li>
+<li><a href="1/gaussians.pdf" target="_blank" rel="nofollow">Multivariate Gaussian - I</a></li>
+<li><a href="1/more_on_gaussians.pdf" target="_blank" rel="nofollow">Multivariate Gaussian - II</a></li>
+<li><a href="1/cs229-cvxopt.pdf" target="_blank" rel="nofollow">Convex Optimization - I</a></li>
+<li><a href="1/cs229-cvxopt2.pdf" target="_blank" rel="nofollow">Convex Optimization - II</a></li>
+</ul>
+</br>
+
+
+
