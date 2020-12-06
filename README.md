@@ -670,7 +670,11 @@ Discriminant Updates</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(94).pdf" style="text-decoration:none;">scikit-learn user guide</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(95).pdf" style="text-decoration:none;">The Matrix Cookbook</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(97).pdf" style="text-decoration:none;">Big Data: New Tricks for Econometrics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(98).pdf" style="text-decoration:none;">Crash Course on Basic Statistics</a></li>
 
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(99).pdf" style="text-decoration:none;">Think Stats: Probability and
+Statistics for Programmers</a></li>
  
  
  
