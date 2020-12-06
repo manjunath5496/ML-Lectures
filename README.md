@@ -894,7 +894,7 @@ Discriminant Updates</a></li>
 </ul>
 
 </br>
-
+<h2>Lectures on Machine Learning (<a href="https://www.cs.ubc.ca/~schmidtm/"><strong>Mark Schmidt</strong></a>)</h2>
 <h4>1. Supervised Learning</h4>
 <ul>
 <li><a href="4/overview.pdf" data-smd-id="s4">Overview</a></li>
