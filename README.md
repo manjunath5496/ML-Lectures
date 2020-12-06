@@ -957,14 +957,14 @@ Discriminant Updates</a></li>
 <h3>Part 3: Computer Science 540</h3>
 <h4>A. Fundamentals</h4>
 <ul>
-<li><a href="4a/L1.pdf" data-smd-id="s54">340 Overview</a></li>
+<li><a href="4/L1.pdf" data-smd-id="s54">340 Overview</a></li>
 <li><a href="4a/L2.pdf" data-smd-id="s55">Fundamentals of Learning</a></li>
 <li><a href="4a/L3.pdf" data-smd-id="s56">Convexity</a>&nbsp;(<a href="4/norms.pdf" data-smd-id="s57">Notes on Norms</a>)</li>
-<li><a href="4a/L4a.pdf" data-smd-id="s58">How Much Data?</a></li>
+<li><a href="4/L4a.pdf" data-smd-id="s58">How Much Data?</a></li>
 </ul>
 <h4>B. Density Estimation</h4>
 <ul>
-<li><a href="4a/L4b.pdf" data-smd-id="s59">Structured Prediction Motivation</a></li>
+<li><a href="4/L4b.pdf" data-smd-id="s59">Structured Prediction Motivation</a></li>
 <li><a href="4a/L5.pdf" data-smd-id="s60">Density Estimation</a></li>
 <li><a href="4a/L6.pdf" data-smd-id="s61">Multivariate Gaussians</a></li>
 <li><a href="4a/L7.pdf" data-smd-id="s62">Mixture Models</a></li>
@@ -998,20 +998,20 @@ Discriminant Updates</a></li>
 <li><a href="4a/L30.pdf" data-smd-id="s85">Rejection/Importance Sampling</a></li>
 <li><a href="4a/L31.pdf" data-smd-id="s86">Metropolis-Hastings</a></li>
 <li><a href="4a/L34.pdf" data-smd-id="s87">Variational Inference</a></li>
-<li><a href="4a/L35.pdf" data-smd-id="s88">Non-Parametric Bayes</a></li>
+<li><a href="4/L35.pdf" data-smd-id="s88">Non-Parametric Bayes</a></li>
 <li><a href="4/NP.pdf" data-smd-id="s89">Infinite Mixture Models</a></li>
 </ul>
 <h4>E. More Deep Learning</h4>
 <ul>
 <li><a href="4a/L22.pdf" data-smd-id="s90">Neural Networks</a></li>
-<li><a href="4a/L22b.pdf" data-smd-id="s91">Double Descent Curves</a></li>
+<li><a href="4/L22b.pdf" data-smd-id="s91">Double Descent Curves</a></li>
 <li><a href="4a/L23.pdf" data-smd-id="s92">Deep Structured Models</a></li>
 <li><a href="4a/L24.pdf" data-smd-id="s93">Fully-Convolutional Networks</a></li>
-<li><a href="4a/L24b.pdf" data-smd-id="s94">Recurrent Neural Networks</a></li>
+<li><a href="4/L24b.pdf" data-smd-id="s94">Recurrent Neural Networks</a></li>
 <li><a href="4a/L32.pdf" data-smd-id="s95">Long Short Term Memory</a></li>
 <li><a href="4a/L33.pdf" data-smd-id="s96">Faster Algorithms for Deep Learning?</a></li>
-<li><a href="4a/L36.pdf" data-smd-id="s97">VAEs and GANs</a></li>
-<li><a href="4a/L37.pdf" data-smd-id="s98">Attention</a></li>
+<li><a href="4/L36.pdf" data-smd-id="s97">VAEs and GANs</a></li>
+<li><a href="4/L37.pdf" data-smd-id="s98">Attention</a></li>
 </ul>
 <h3>Part 4: Large-Scale Machine Learning</h3>
 <ul>
