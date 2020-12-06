@@ -559,3 +559,70 @@ Cheat Sheet</a></li>
 
 </br>
 
+<h2> Papers </h2>
+<ul>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(48).pdf" style="text-decoration:none;">Discrete Adversarial Attacks and Submodular Optimization with Applications to Text Classification</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(49).pdf" style="text-decoration:none;">Towards Deep Learning Models Resistant to Adversarial Attacks</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(50).pdf" style="text-decoration:none;">Synthesizing Robust Adversarial Examples</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(51).pdf" style="text-decoration:none;">Robust Physical-World Attacks on Deep Learning Visual Classification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(52).pdf" style="text-decoration:none;">Audio Adversarial Examples: Targeted Attacks on Speech-to-Text</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(53).pdf" style="text-decoration:none;">PoTrojan: powerful neuron-level trojan designs in
+deep learning models</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(54).pdf" style="text-decoration:none;">Semantic Adversarial Examples </a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(55).pdf" style="text-decoration:none;">Programmable Neural Network Trojan for Pre-Trained Feature Extractor</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(56).pdf" style="text-decoration:none;">STRIP: A Defence Against Trojan Attacks on Deep
+Neural Networks </a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(57).pdf" style="text-decoration:none;">A General Framework for Adversarial Examples
+with Objectives</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(58).pdf" style="text-decoration:none;">Adversarial Attacks on Neural Network Policies</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(59).pdf" style="text-decoration:none;">Adversarial Examples Are Not Easily Detected:
+Bypassing Ten Detection Methods</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(60).pdf" style="text-decoration:none;">Adversarial Examples that Fool both Computer
+Vision and Time-Limited Humans</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(61).pdf" style="text-decoration:none;">Analyzing Federated Learning through an Adversarial Lens</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(62).pdf" style="text-decoration:none;">Neural Cleanse: Identifying and Mitigating
+Backdoor Attacks in Neural Networks</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(63).pdf" style="text-decoration:none;">Generating Natural Language Adversarial Examples</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(64).pdf" style="text-decoration:none;">Sparse Bayesian Adversarial Learning Using Relevance Vector Machine Ensembles</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(65).pdf" style="text-decoration:none;">ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(66).pdf" style="text-decoration:none;">Imperceptible, Robust, and Targeted
+Adversarial Examples for Automatic Speech Recognition</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(67).pdf" style="text-decoration:none;">Poison Frogs! Targeted Clean-Label Poisoning
+Attacks on Neural Networks</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(68).pdf" style="text-decoration:none;">Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(69).pdf" style="text-decoration:none;">On Evaluating Adversarial Robustness</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(70).pdf" style="text-decoration:none;">Adversarial Support Vector Machine Learning</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(71).pdf" style="text-decoration:none;">Trojaning Attack on Neural Networks</a></li>
+ 
+</ul>
+
+
+
+
+
+
+
+
+
