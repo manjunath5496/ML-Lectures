@@ -490,7 +490,57 @@ Cheat Sheet</a></li>
 <li><a href="1/examples.pdf">Examples sheet</a></li>
 </ul>
 
-
+</br>
+<table border="2" cellpadding="0" bgcolor="lightyellow">
+<tbody>
+<tr>
+<td align="CENTER">
+<h1>ML Lecture Notes</h1>
+<p>(Prof. Qiangfu Zhao, Prof. Yong Liu and Prof. Yuichi Yaguchi)</p>
+</td>
+</tr>
+<tr>
+<td align="CENTER">Contents</td>
+</tr>
+<tr>
+<td><a href="2/Lec01.pdf" data-smd-id="s3">History of AI and ML</a></td>
+</tr>
+<tr>
+<td><a href="2/Lec02.pdf" data-smd-id="s4">Fundamentals of machine learning</a></td>
+</tr>
+<tr>
+<td><a href="2/Lec03.pdf" data-smd-id="s5">Introduction to concept learning</a></td>
+</tr>
+<tr>
+<td><a href="2/Lec04.pdf" data-smd-id="s6">Basic statistic learning</a></td>
+</tr>
+<tr>
+<td><a href="2/Lec05.pdf" data-smd-id="s7">Bayesian network</a></td>
+</tr>
+<tr>
+<td><a href="2/project-1.pdf" data-smd-id="s8">Project-I</a></td>
+</tr>
+<tr>
+<td><a href="2/Lec06.pdf" data-smd-id="s9">Multilayer perceptron</a></td>
+</tr>
+<tr>
+<td><a href="2/Lec07.pdf" data-smd-id="s10">Convolutional neural network</a></td>
+</tr>
+<tr>
+<td><a href="2/Lec08.pdf" data-smd-id="s11">Autoencoder</a></td>
+</tr>
+<tr>
+<td><a href="2/Lec09.pdf" data-smd-id="s12">Restricted Boltzmann machine</a></td>
+</tr>
+<tr>
+<td><a href="2/Lec10.pdf" data-smd-id="s13">Decision trees</a></td>
+</tr>
+<tr>
+<td><a href="2/Project-II.pdf" data-smd-id="s14">Project-II</a></td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
 
