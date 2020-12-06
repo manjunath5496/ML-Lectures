@@ -468,6 +468,10 @@ Cheat Sheet</a></li>
  
   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(1145).pdf" style="text-decoration:none;">CS446: Machine Learning Lecture Notes</a></li> 
  
+ 
+ 
+ 
+ 
 </ul>
 
 </br>
@@ -659,6 +663,9 @@ Discriminant Updates</a></li>
   
   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(90).pdf" style="text-decoration:none;">On the Uniform Convergence of Relative Frequencies of Events to Their Probabilities</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(91).pdf" style="text-decoration:none;">On-Line Algorithms in Machine Learning</a></li>
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(92).pdf" style="text-decoration:none;">Neural Programmer-Interpreters</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(93).pdf" style="text-decoration:none;">Dueling Network Architectures for Deep Reinforcement Learning</a></li>
 
  
  
