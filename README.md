@@ -1068,84 +1068,90 @@ Statistics for Programmers</a></li>
 <li><a href="Session%2016%20(Analyzing).pdf">Analyzing</a></li>
 </ul>
 </br>
+
+<h2>Lecture Notes (<a href="https://web.ma.utexas.edu/users/a.debray/">Arun Debray</a>)</h2>
+
+
+
+
 <ul id="grad">
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m390c_AGnotes.pdf" data-smd-id="s6">Algebraic Geometry</a></p>
+<p><a href="5/m390c_AGnotes.pdf" data-smd-id="s6">Algebraic Geometry</a></p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_Raskin_AG_notes.pdf" data-smd-id="s7">Algebraic Geometry</a></p>
+<p><a href="5/m392c_Raskin_AG_notes.pdf" data-smd-id="s7">Algebraic Geometry</a></p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_QFT_notes.pdf" data-smd-id="s8">Applications of QFT to Geometry</a>&nbsp;</p>
+<p><a href="5/m392c_QFT_notes.pdf" data-smd-id="s8">Applications of QFT to Geometry</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_BrSt_notes.pdf" data-smd-id="s9">Bridgeland Stability</a>&nbsp;</p>
+<p><a href="5/m392c_BrSt_notes.pdf" data-smd-id="s9">Bridgeland Stability</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m382d_notes.pdf" data-smd-id="s10">Differential Topology</a></p>
+<p><a href="5/m382d_notes.pdf" data-smd-id="s10">Differential Topology</a></p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_EHT_notes.pdf" data-smd-id="s11">Equivariant Homotopy Theory</a>&nbsp;</p>
+<p><a href="5/m392c_EHT_notes.pdf" data-smd-id="s11">Equivariant Homotopy Theory</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m390c_GLnotes.pdf" data-smd-id="s14">Geometric Langlands</a>&nbsp;</p>
+<p><a href="5/m390c_GLnotes.pdf" data-smd-id="s14">Geometric Langlands</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_IND_notes.pdf" data-smd-id="s15">Index Theory</a>&nbsp;</p>
+<p><a href="5/m392c_IND_notes.pdf" data-smd-id="s15">Index Theory</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_Knotes.pdf" data-smd-id="s16"><em>K</em>-Theory</a></p>
+<p><a href="5/m392c_Knotes.pdf" data-smd-id="s16"><em>K</em>-Theory</a></p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_ADHM_notes.pdf" data-smd-id="s17">Mathematical Gauge Theory</a>&nbsp;</p>
+<p><a href="5/m392c_ADHM_notes.pdf" data-smd-id="s17">Mathematical Gauge Theory</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m393c_notes.pdf" data-smd-id="s18">Mathematical Physics</a>&nbsp;</p>
+<p><a href="5/m393c_notes.pdf" data-smd-id="s18">Mathematical Physics</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_GW_notes.pdf" data-smd-id="s19">Mirror Symmetry</a>&nbsp;</p>
+<p><a href="5/m392c_GW_notes.pdf" data-smd-id="s19">Mirror Symmetry</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m381c_notes.pdf" data-smd-id="s20">Measure Theory</a>&nbsp;</p>
+<p><a href="5/m381c_notes.pdf" data-smd-id="s20">Measure Theory</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m383c_notes.pdf" data-smd-id="s21">Methods of Applied Mathematics</a>&nbsp;</p>
+<p><a href="5/m383c_notes.pdf" data-smd-id="s21">Methods of Applied Mathematics</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_Morse_notes.pdf" data-smd-id="s22">Morse Theory</a>&nbsp;</p>
+<p><a href="5/m392c_Morse_notes.pdf" data-smd-id="s22">Morse Theory</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/cs395t_notes.pdf" data-smd-id="s23">Quantum Complexity Theory</a>&nbsp;</p>
+<p><a href="5/cs395t_notes.pdf" data-smd-id="s23">Quantum Complexity Theory</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/introductory_workshop_quantum_symmetries.pdf" data-smd-id="s24">Quantum symmetries</a></p>
+<p><a href="5/introductory_workshop_quantum_symmetries.pdf" data-smd-id="s24">Quantum symmetries</a></p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_RHTnotes.pdf" data-smd-id="s26">Rational Homotopy Theory</a>&nbsp;</p>
+<p><a href="5/m392c_RHTnotes.pdf" data-smd-id="s26">Rational Homotopy Theory</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_RT_notes.pdf" data-smd-id="s27">Representation Theory</a>&nbsp;</p>
+<p><a href="5/m392c_RT_notes.pdf" data-smd-id="s27">Representation Theory</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_RSnotes.pdf" data-smd-id="s28">Riemann Surfaces</a>&nbsp;</p>
+<p><a href="5/m392c_RSnotes.pdf" data-smd-id="s28">Riemann Surfaces</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_RG_notes.pdf" data-smd-id="s29">Riemannian Geometry</a>&nbsp;</p>
+<p><a href="5/m392c_RG_notes.pdf" data-smd-id="s29">Riemannian Geometry</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_GT_notes.pdf" data-smd-id="s30">Seiberg-Witten Theory and Four-Manifold Topology</a>&nbsp;</p>
+<p><a href="5/m392c_GT_notes.pdf" data-smd-id="s30">Seiberg-Witten Theory and Four-Manifold Topology</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_Spin_notes.pdf" data-smd-id="s31">Spin Geometry</a>&nbsp;</p>
+<p><a href="5/m392c_Spin_notes.pdf" data-smd-id="s31">Spin Geometry</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/topological_and_geometric_methods_in_qft.pdf" data-smd-id="s32">Topological and geometric methods in QFT</a></p>
+<p><a href="5/topological_and_geometric_methods_in_qft.pdf" data-smd-id="s32">Topological and geometric methods in QFT</a></p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/phy392t_notes.pdf" data-smd-id="s34">Topological phases of matter</a>&nbsp;</p>
+<p><a href="5/phy392t_notes.pdf" data-smd-id="s34">Topological phases of matter</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/s20_tqft.pdf" data-smd-id="s35">Topological quantum field theory</a></p>
+<p><a href="5/s20_tqft.pdf" data-smd-id="s35">Topological quantum field theory</a></p>
 </li>
 
 <li>
