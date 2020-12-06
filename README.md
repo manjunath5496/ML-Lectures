@@ -759,7 +759,7 @@ Discriminant Updates</a></li>
 <li><strong><span style="color: #000099;"><a href="3/7.4-SVM-LogisticReg.pdf">Relation to Logistic Regression&nbsp;</a></span></strong>(446KB)</li>
 </ol>
 </li>
-<li><strong><span style="color: red;">Probabilistic Graphical Models</span></strong><br />See Course on&nbsp;<strong><a href="http://www.cedar.buffalo.edu/~srihari/CSE674">Probabilistic Graphical Models</a></strong></li>
+
 <li><strong><span style="color: red;">Mixture Models and EM</span></strong>
 <ol start="0">
 <ol start="0">
@@ -792,7 +792,7 @@ Discriminant Updates</a></li>
 </li>
 <li><strong><span style="color: red;">Continuous Latent Variables</span></strong>
 <ol>
-<li><strong><span style="color: #000099;">Principal Components Analysis</span></strong><br />See Section 3.2 of course on<strong><span style="color: #000099;">&nbsp;<a href="https://cedar.buffalo.edu/~srihari/CSE626/index.html">Data Mining</a></span></strong></li>
+
 <li><strong><span style="color: #000099;">Nonlinear Latent Variable Models</span></strong></li>
 </ol>
 </li>
@@ -866,11 +866,3 @@ Discriminant Updates</a></li>
 </tr>
 </tbody>
 </table>
-
-
-
-
-
-
-
-
