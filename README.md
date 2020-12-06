@@ -669,6 +669,7 @@ Discriminant Updates</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(94).pdf" style="text-decoration:none;">scikit-learn user guide</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(95).pdf" style="text-decoration:none;">The Matrix Cookbook</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(96).pdf" style="text-decoration:none;">Data Science Lecture Notes</a></li>
 
  
  
