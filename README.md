@@ -410,7 +410,7 @@ Learning (Lecture Notes: Part I)</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(19).pdf" style="text-decoration:none;">Super VIP Cheatsheet: Machine Learning</a></li> 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(20).pdf" style="text-decoration:none;">
-CS229 Lecture notes</a></li>
+CSE176 Introduction to Machine Learning — Lecture notes</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(21).pdf" style="text-decoration:none;">Linear Algebra Review and Reference</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(22).pdf" style="text-decoration:none;">Lecture notes (Roger Grosse)</a></li> 
@@ -420,7 +420,8 @@ CS229 Lecture notes</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(24).pdf" style="text-decoration:none;">A Primer on Neural Network Models
 for Natural Language Processing</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(25).pdf" style="text-decoration:none;">Training generative neural networks via Maximum Mean Discrepancy optimization</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(25).pdf" style="text-decoration:none;">Machine Learning and Data Mining
+Lecture Notes</a></li>                              
  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(26).pdf" style="text-decoration:none;">Common tests are linear models</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(27).pdf" style="text-decoration:none;">
 Linear Algebra Abridged</a></li>
@@ -431,9 +432,9 @@ Linear Algebra Abridged</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(29).pdf" style="text-decoration:none;">Measure, Integration
 and Real Analysis</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(30).pdf" style="text-decoration:none;">Importance Weighted Autoencoders</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(30).pdf" style="text-decoration:none;">Concise Machine Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(31).pdf" style="text-decoration:none;">The Variational Fair Autoencoder</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(31).pdf" style="text-decoration:none;">Machine Learning Basic Concepts</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(32).pdf" style="text-decoration:none;">
 Notation: Overview</a></li> 
 
@@ -461,7 +462,7 @@ Applied Linear Algebra</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(45).pdf" style="text-decoration:none;">Data Visualization with ggplot2
 Cheat Sheet</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(46).pdf" style="text-decoration:none;">Composing graphical models with neural networks for structured representations and fast inference</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(46).pdf" style="text-decoration:none;">CS725 : Foundations of Machine learning - Lecture Notes</a></li> 
                              
  
  
