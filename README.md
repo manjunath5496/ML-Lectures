@@ -542,6 +542,20 @@ Cheat Sheet</a></li>
 </table>
 </br>
 
+<h2>Statistical ML Lecture Notes [Thomas Schön]</h2> 
+<ul>
+<li><a href="2/le1.pdf">[pdf]</a>&nbsp;<strong>Introduction</strong>&nbsp;(<a href="2/schonl2011.pdf">notes</a>)</li>
+<li><strong><a href="2/le2.pdf">[pdf]</a>&nbsp;Linear regression</strong>&nbsp;</li>
+<li><strong><a href="2/le3.pdf">[pdf]</a>&nbsp;Linear classification</strong>&nbsp;</li>
+<li><strong><a href="2/le4.pdf">[pdf]</a>&nbsp;Neural networks, kernel methods intro.</strong>&nbsp;</li>
+<li><strong><a href="2/le5.pdf">[pdf]</a>&nbsp;Kernel methods&nbsp;</strong></li>
+<li><strong><a href="2/le6.pdf">[pdf]</a>&nbsp;EM and clustering</strong>&nbsp;(<a href="2/schonem2009.pdf">Notes</a>)</li>
+<li><strong><a href="2/le7.pdf">[pdf]</a>&nbsp;Approximate inference</strong>&nbsp;(<a href="2/vbexample.pdf">Notes</a>)</li>
+<li><strong><a href="2/le8.pdf">[pdf]</a>&nbsp;Graphical models</strong>&nbsp;</li>
+<li><strong><a href="2/le9.pdf">[pdf]&nbsp;</a>Graphical models and message passing</strong>&nbsp;</li>
+<li><strong><a href="2/le10.pdf">[pdf]</a>&nbsp;MCMC and sampling methods</strong>&nbsp;</li>
+<li><strong><a href="2/le11.pdf">[pdf]</a>&nbsp;Bayesian nonparametric models</strong>&nbsp;</li>
+</ul>
 
-
+</br>
 
