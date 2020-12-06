@@ -897,145 +897,145 @@ Discriminant Updates</a></li>
 
 <h4>1. Supervised Learning</h4>
 <ul>
-<li><a href="4/overview.pdf">Overview</a></li>
-<li><a href="4/L2.pdf">Exploratory Data Analysis</a></li>
-<li><a href="4/L3.pdf">Decision Trees</a>&nbsp;(<a href="4/bigO.pdf">Notes on Big-O Notation</a>)</li>
-<li><a href="4/L4.pdf">Fundamentals of Learning</a>&nbsp;(<a href="4/notation.pdf">Notation Guide</a>)</li>
-<li><a href="4/L5.pdf">Probabilistic Classifiers</a>&nbsp;(<a href="4/probabilitySlides.pdf">Probability Slides</a>,&nbsp;<a href="4/probability.pdf">Notes on Probability</a>)</li>
-<li><a href="4/L6.pdf">Non-Parametric Models</a></li>
-<li><a href="4/L7.pdf">Ensemble Methods</a></li>
+<li><a href="4/overview.pdf" data-smd-id="s4">Overview</a></li>
+<li><a href="4/L2.pdf" data-smd-id="s5">Exploratory Data Analysis</a></li>
+<li><a href="4/L3.pdf" data-smd-id="s6">Decision Trees</a>&nbsp;(<a href="4/bigO.pdf" data-smd-id="s7">Notes on Big-O Notation</a>)</li>
+<li><a href="4/L4.pdf" data-smd-id="s8">Fundamentals of Learning</a>&nbsp;(<a href="4/notation.pdf" data-smd-id="s9">Notation Guide</a>)</li>
+<li><a href="4/L5.pdf" data-smd-id="s10">Probabilistic Classifiers</a>&nbsp;(<a href="4/probabilitySlides.pdf" data-smd-id="s11">Probability Slides</a>,&nbsp;<a href="4/probability.pdf" data-smd-id="s12">Notes on Probability</a>)</li>
+<li><a href="4/L6.pdf" data-smd-id="s13">Non-Parametric Models</a></li>
+<li><a href="4/L7.pdf" data-smd-id="s14">Ensemble Methods</a></li>
 </ul>
 <h4>2. Unsupervised Learning</h4>
 <ul>
-<li><a href="4/L8.pdf">Clustering</a></li>
-<li><a href="4/L9.pdf">More Clustering</a></li>
-<li><a href="4/L10.pdf">Outlier Detection</a></li>
-<li><a href="4/L11.pdf">Finding Similar Items</a></li>
+<li><a href="4/L8.pdf" data-smd-id="s15">Clustering</a></li>
+<li><a href="4/L9.pdf" data-smd-id="s16">More Clustering</a></li>
+<li><a href="4/L10.pdf" data-smd-id="s17">Outlier Detection</a></li>
+<li><a href="4/L11.pdf" data-smd-id="s18">Finding Similar Items</a></li>
 </ul>
 <h4>3. Linear Models</h4>
 <ul>
-<li><a href="4/L12.pdf">Least Squares</a>&nbsp;(<a href="4/calculus.pdf">Notes on Calculus</a>,&nbsp;<a href="4/2009_Notes_LinearAlgebra.pdf">Notes on Linear Algebra</a>,&nbsp;<a href="4/linearQuadraticGradients.pdf">Notes on Linear/Quadratic Gradients</a>)</li>
-<li><a href="4/L13.pdf">Nonlinear Regression</a></li>
-<li><a href="4/L14.pdf">Gradient Descent</a></li>
-<li><a href="4/L15.pdf">Robust Regression</a></li>
-<li><a href="4/L16.pdf">Feature Selection</a></li>
-<li><a href="4/L17.pdf">Regularization</a></li>
-<li><a href="4/L18.pdf">More Regularization</a></li>
-<li><a href="4/L19.pdf">Linear Classifiers</a></li>
-<li><a href="4/L20.pdf">More Linear Classifiers</a></li>
-<li><a href="4/L21.pdf">Feature Engineering</a></li>
-<li><a href="4/L22.pdf">Convolutions</a></li>
-<li><a href="4/L23.pdf">Kernel Methods</a></li>
-<li><a href="4/L24.pdf">Stochastic Gradient</a></li>
-<li><a href="4/L25.pdf">Boosting</a></li>
-<li><a href="4/L26.pdf">MLE and MAP</a>&nbsp;(<a href="4/max.pdf">Notes on Max and Argmax</a>)</li>
+<li><a href="4/L12.pdf" data-smd-id="s19">Least Squares</a>&nbsp;(<a href="4/calculus.pdf" data-smd-id="s20">Notes on Calculus</a>,&nbsp;<a href="4/2009_Notes_LinearAlgebra.pdf" data-smd-id="s21">Notes on Linear Algebra</a>,&nbsp;<a href="4/linearQuadraticGradients.pdf" data-smd-id="s22">Notes on Linear/Quadratic Gradients</a>)</li>
+<li><a href="4/L13.pdf" data-smd-id="s23">Nonlinear Regression</a></li>
+<li><a href="4/L14.pdf" data-smd-id="s24">Gradient Descent</a></li>
+<li><a href="4/L15.pdf" data-smd-id="s25">Robust Regression</a></li>
+<li><a href="4/L16.pdf" data-smd-id="s26">Feature Selection</a></li>
+<li><a href="4/L17.pdf" data-smd-id="s27">Regularization</a></li>
+<li><a href="4/L18.pdf" data-smd-id="s28">More Regularization</a></li>
+<li><a href="4/L19.pdf" data-smd-id="s29">Linear Classifiers</a></li>
+<li><a href="4/L20.pdf" data-smd-id="s30">More Linear Classifiers</a></li>
+<li><a href="4/L21.pdf" data-smd-id="s31">Feature Engineering</a></li>
+<li><a href="4/L22.pdf" data-smd-id="s32">Convolutions</a></li>
+<li><a href="4/L23.pdf" data-smd-id="s33">Kernel Methods</a></li>
+<li><a href="4/L24.pdf" data-smd-id="s34">Stochastic Gradient</a></li>
+<li><a href="4/L25.pdf" data-smd-id="s35">Boosting</a></li>
+<li><a href="4/L26.pdf" data-smd-id="s36">MLE and MAP</a>&nbsp;(<a href="4/max.pdf" data-smd-id="s37">Notes on Max and Argmax</a>)</li>
 </ul>
 <h4>4. Latent-Factor Models</h4>
 <ul>
-<li><a href="4/L27.pdf">Principal Component Analysis</a></li>
-<li><a href="4/L28.pdf">More PCA</a></li>
-<li><a href="4/L29.pdf">Sparse Matrix Factorization</a></li>
-<li><a href="4/L30.pdf">Recommender Systems</a></li>
-<li><a href="4/L31.pdf">Nonlinear Dimensionality Reduction</a></li>
+<li><a href="4/L27.pdf" data-smd-id="s38">Principal Component Analysis</a></li>
+<li><a href="4/L28.pdf" data-smd-id="s39">More PCA</a></li>
+<li><a href="4/L29.pdf" data-smd-id="s40">Sparse Matrix Factorization</a></li>
+<li><a href="4/L30.pdf" data-smd-id="s41">Recommender Systems</a></li>
+<li><a href="4/L31.pdf" data-smd-id="s42">Nonlinear Dimensionality Reduction</a></li>
 </ul>
 <h4>5. Deep Learning</h4>
 <ul>
-<li><a href="4/L32.pdf">Deep Learning</a></li>
-<li><a href="4/L33.pdf">More Deep Learning</a></li>
-<li><a href="4/L34.pdf">Convolutional Neural Networks</a></li>
-<li><a href="4/L35b.pdf">More CNNs</a></li>
+<li><a href="4/L32.pdf" data-smd-id="s43">Deep Learning</a></li>
+<li><a href="4/L33.pdf" data-smd-id="s44">More Deep Learning</a></li>
+<li><a href="4/L34.pdf" data-smd-id="s45">Convolutional Neural Networks</a></li>
+<li><a href="4/L35b.pdf" data-smd-id="s46">More CNNs</a></li>
 </ul>
 <h3>Part 2: Data Science 573 and 575</h3>
 <ul>
-<li><a href="4/structLearn.pdf">Structure Learning</a></li>
-<li><a href="4/sequenceMining.pdf">Sequence Mining</a></li>
-<li><a href="4/20201007.pdf">Tensor Basics</a></li>
-<li><a href="4/semiSupervised.pdf">Semi-Supervised Learning</a></li>
-<li><a href="4/pageRank.pdf">PageRank</a></li>
-<li><a href="4/MCandMC.pdf">Markov Chains and Monte Carlo</a></li>
+<li><a href="4/structLearn.pdf" data-smd-id="s47">Structure Learning</a></li>
+<li><a href="4/sequenceMining.pdf" data-smd-id="s48">Sequence Mining</a></li>
+<li><a href="4/20201007.pdf" data-smd-id="s49">Tensor Basics</a></li>
+<li><a href="4/semiSupervised.pdf" data-smd-id="s50">Semi-Supervised Learning</a></li>
+<li><a href="4/pageRank.pdf" data-smd-id="s51">PageRank</a></li>
+<li><a href="4/MCandMC.pdf" data-smd-id="s52">Markov Chains and Monte Carlo</a></li>
 </ul>
 <h3>Part 3: Computer Science 540</h3>
 <h4>A. Fundamentals</h4>
 <ul>
-<li><a href="4/540-W20/L1.pdf">340 Overview</a></li>
-<li><a href="4/540-W20/L2.pdf">Fundamentals of Learning</a></li>
-<li><a href="4/540-W20/L3.pdf">Convexity</a>&nbsp;(<a href="4/norms.pdf">Notes on Norms</a>)</li>
-<li><a href="4/540-W20/L4a.pdf">How Much Data?</a></li>
+<li><a href="4a/L1.pdf" data-smd-id="s54">340 Overview</a></li>
+<li><a href="4a/L2.pdf" data-smd-id="s55">Fundamentals of Learning</a></li>
+<li><a href="4a/L3.pdf" data-smd-id="s56">Convexity</a>&nbsp;(<a href="4/norms.pdf" data-smd-id="s57">Notes on Norms</a>)</li>
+<li><a href="4a/L4a.pdf" data-smd-id="s58">How Much Data?</a></li>
 </ul>
 <h4>B. Density Estimation</h4>
 <ul>
-<li><a href="4/540-W20/L4b.pdf">Structured Prediction Motivation</a></li>
-<li><a href="4/540-W20/L5.pdf">Density Estimation</a></li>
-<li><a href="4/540-W20/L6.pdf">Multivariate Gaussians</a></li>
-<li><a href="4/540-W20/L7.pdf">Mixture Models</a></li>
-<li><a href="4/540-W20/L8.pdf">Generative Classifiers</a></li>
-<li><a href="4/540-W20/L9.pdf">Expectation Maximization</a>&nbsp;(<a href="4/EM.pdf">Notes on EM</a>)</li>
-<li><a href="4/540-W20/L10.pdf">Kernel Density Estimation</a></li>
-<li><a href="4/540-W19/L17.5.pdf">Probabilistic PCA, Factor Analysis, Independent Component Analysis</a></li>
+<li><a href="4a/L4b.pdf" data-smd-id="s59">Structured Prediction Motivation</a></li>
+<li><a href="4a/L5.pdf" data-smd-id="s60">Density Estimation</a></li>
+<li><a href="4a/L6.pdf" data-smd-id="s61">Multivariate Gaussians</a></li>
+<li><a href="4a/L7.pdf" data-smd-id="s62">Mixture Models</a></li>
+<li><a href="4a/L8.pdf" data-smd-id="s63">Generative Classifiers</a></li>
+<li><a href="4a/L9.pdf" data-smd-id="s64">Expectation Maximization</a>&nbsp;(<a href="4/EM.pdf" data-smd-id="s65">Notes on EM</a>)</li>
+<li><a href="4a/L10.pdf" data-smd-id="s66">Kernel Density Estimation</a></li>
+<li><a href="4/L17.5.pdf" data-smd-id="s67">Probabilistic PCA, Factor Analysis, Independent Component Analysis</a></li>
 </ul>
 <h4>C. Graphical Models</h4>
 <ul>
-<li><a href="4/540-W20/L11.pdf">Markov Chains</a></li>
-<li><a href="4/540-W20/L12.pdf">Monte Carlo Methods</a></li>
-<li><a href="4/540-W20/L13.pdf">Message Passing</a></li>
-<li><a href="4/540-W20/L14.pdf">Hidden Markov Models</a></li>
-<li><a href="4/540-W20/L15.pdf">DAG Models</a></li>
-<li><a href="4/540-W20/L16.pdf">More DAGs</a></li>
-<li><a href="4/540-W20/L17.pdf">Undirected Graphical Models</a></li>
-<li><a href="4/540-W20/L18.pdf">Approximate Inference</a></li>
-<li><a href="4/540-W20/L19.pdf">Log-Linear Models</a></li>
-<li><a href="4/540-W20/L20.pdf">Boltzmann Machines</a></li>
-<li><a href="4/540-W20/L21.pdf">Conditional Random Fields</a></li>
-<li><a href="4/540-W19/L28.5.pdf">Structured SVMs</a></li>
+<li><a href="4a/L11.pdf" data-smd-id="s68">Markov Chains</a></li>
+<li><a href="4a/L12.pdf" data-smd-id="s69">Monte Carlo Methods</a></li>
+<li><a href="4a/L13.pdf" data-smd-id="s70">Message Passing</a></li>
+<li><a href="4a/L14.pdf" data-smd-id="s71">Hidden Markov Models</a></li>
+<li><a href="4a/L15.pdf" data-smd-id="s72">DAG Models</a></li>
+<li><a href="4a/L16.pdf" data-smd-id="s73">More DAGs</a></li>
+<li><a href="4a/L17.pdf" data-smd-id="s74">Undirected Graphical Models</a></li>
+<li><a href="4a/L18.pdf" data-smd-id="s75">Approximate Inference</a></li>
+<li><a href="4a/L19.pdf" data-smd-id="s76">Log-Linear Models</a></li>
+<li><a href="4a/L20.pdf" data-smd-id="s77">Boltzmann Machines</a></li>
+<li><a href="4a/L21.pdf" data-smd-id="s78">Conditional Random Fields</a></li>
+<li><a href="4/L28.5.pdf" data-smd-id="s79">Structured SVMs</a></li>
 </ul>
 <h4>D. Bayesian Learning</h4>
 <ul>
-<li><a href="4/540-W20/L25.pdf">Bayesian Statistics</a></li>
-<li><a href="4/540-W20/L26.pdf">Empirical Bayes</a></li>
-<li><a href="4/540-W20/L27.pdf">Conjguate Prios</a></li>
-<li><a href="4/540-W20/L28.pdf">Hierarchical Bayes</a></li>
-<li><a href="4/540-W20/L29.pdf">Topics Models</a></li>
-<li><a href="4/540-W20/L30.pdf">Rejection/Importance Sampling</a></li>
-<li><a href="4/540-W20/L31.pdf">Metropolis-Hastings</a></li>
-<li><a href="4/540-W20/L34.pdf">Variational Inference</a></li>
-<li><a href="4/540-W20/L35.pdf">Non-Parametric Bayes</a></li>
-<li><a href="4/NP.pdf">Infinite Mixture Models</a></li>
+<li><a href="4a/L25.pdf" data-smd-id="s80">Bayesian Statistics</a></li>
+<li><a href="4a/L26.pdf" data-smd-id="s81">Empirical Bayes</a></li>
+<li><a href="4a/L27.pdf" data-smd-id="s82">Conjguate Prios</a></li>
+<li><a href="4a/L28.pdf" data-smd-id="s83">Hierarchical Bayes</a></li>
+<li><a href="4a/L29.pdf" data-smd-id="s84">Topics Models</a></li>
+<li><a href="4a/L30.pdf" data-smd-id="s85">Rejection/Importance Sampling</a></li>
+<li><a href="4a/L31.pdf" data-smd-id="s86">Metropolis-Hastings</a></li>
+<li><a href="4a/L34.pdf" data-smd-id="s87">Variational Inference</a></li>
+<li><a href="4a/L35.pdf" data-smd-id="s88">Non-Parametric Bayes</a></li>
+<li><a href="4/NP.pdf" data-smd-id="s89">Infinite Mixture Models</a></li>
 </ul>
 <h4>E. More Deep Learning</h4>
 <ul>
-<li><a href="4/540-W20/L22.pdf">Neural Networks</a></li>
-<li><a href="4/540-W20/L22b.pdf">Double Descent Curves</a></li>
-<li><a href="4/540-W20/L23.pdf">Deep Structured Models</a></li>
-<li><a href="4/540-W20/L24.pdf">Fully-Convolutional Networks</a></li>
-<li><a href="4/540-W20/L24b.pdf">Recurrent Neural Networks</a></li>
-<li><a href="4/540-W20/L32.pdf">Long Short Term Memory</a></li>
-<li><a href="4/540-W20/L33.pdf">Faster Algorithms for Deep Learning?</a></li>
-<li><a href="4/540-W20/L36.pdf">VAEs and GANs</a></li>
-<li><a href="4/540-W20/L37.pdf">Attention</a></li>
+<li><a href="4a/L22.pdf" data-smd-id="s90">Neural Networks</a></li>
+<li><a href="4a/L22b.pdf" data-smd-id="s91">Double Descent Curves</a></li>
+<li><a href="4a/L23.pdf" data-smd-id="s92">Deep Structured Models</a></li>
+<li><a href="4a/L24.pdf" data-smd-id="s93">Fully-Convolutional Networks</a></li>
+<li><a href="4a/L24b.pdf" data-smd-id="s94">Recurrent Neural Networks</a></li>
+<li><a href="4a/L32.pdf" data-smd-id="s95">Long Short Term Memory</a></li>
+<li><a href="4a/L33.pdf" data-smd-id="s96">Faster Algorithms for Deep Learning?</a></li>
+<li><a href="4a/L36.pdf" data-smd-id="s97">VAEs and GANs</a></li>
+<li><a href="4a/L37.pdf" data-smd-id="s98">Attention</a></li>
 </ul>
 <h3>Part 4: Large-Scale Machine Learning</h3>
 <ul>
-<li><a href="4/540-W19/L3.pdf">Convex Optimization</a>&nbsp;(<a href="4/norms.pdf">Notes on Norms</a>)</li>
-<li><a href="4/5XX-S20/S1.pdf">Gradient Descent Progress</a>&nbsp;(<a href="4/convex.pdf">Notes on Convexity Inequalities</a>,&nbsp;<a href="4/differentiable.pdf">Notes on Implementing Gradient Descent</a>)</li>
-<li><a href="4/5XX-S20/S2.pdf">Gradient Descent Convergence</a></li>
-<li><a href="4/5XX-S20/S3.pdf">Linear and Superlinear Convergence</a></li>
-<li><a href="4/5XX-S20/S4.pdf">Subgradient Methods</a></li>
-<li><a href="4/5XX-S20/S5.pdf">Projected-Gradient</a></li>
-<li><a href="4/5XX-S20/S6.pdf">Proximal-Gradient</a></li>
-<li><a href="4/5XX-S20/S7.pdf">Structured Regularization</a></li>
-<li><a href="4/5XX-S20/S8.pdf">Coordinate Optimization</a></li>
-<li><a href="4/mirrorMultiLevel.pdf">Mirror Descent and Multi-Level Methods</a></li>
-<li><a href="4/5XX-S20/S9.pdf">Randomized Algorithms</a></li>
-<li><a href="4/5XX-S20/S10.pdf">Stochastic Subgradient</a></li>
-<li><a href="4/5XX-S20/S11.pdf">Variance-Reduced Stochastic Gradient</a></li>
-<li><a href="4/540-W19/L12.5.pdf">Kernel Methods and Fenchel Duality</a></li>
-<li><a href="4/5XX-S20/S12.pdf">Online Learning</a></li>
-<li><a href="4/5XX-S20/S13.pdf">Over-Parameterized Models</a></li>
+<li><a href="4/L3.pdf" data-smd-id="s99">Convex Optimization</a>&nbsp;(<a href="4/norms.pdf" data-smd-id="s100">Notes on Norms</a>)</li>
+<li><a href="4/S1.pdf" data-smd-id="s101">Gradient Descent Progress</a>&nbsp;(<a href="4/convex.pdf" data-smd-id="s102">Notes on Convexity Inequalities</a>,&nbsp;<a href="4/differentiable.pdf" data-smd-id="s103">Notes on Implementing Gradient Descent</a>)</li>
+<li><a href="4/S2.pdf" data-smd-id="s104">Gradient Descent Convergence</a></li>
+<li><a href="4/S3.pdf" data-smd-id="s105">Linear and Superlinear Convergence</a></li>
+<li><a href="4/S4.pdf" data-smd-id="s106">Subgradient Methods</a></li>
+<li><a href="4/S5.pdf" data-smd-id="s107">Projected-Gradient</a></li>
+<li><a href="4/S6.pdf" data-smd-id="s108">Proximal-Gradient</a></li>
+<li><a href="4/S7.pdf" data-smd-id="s109">Structured Regularization</a></li>
+<li><a href="4/S8.pdf" data-smd-id="s110">Coordinate Optimization</a></li>
+<li><a href="4/mirrorMultiLevel.pdf" data-smd-id="s111">Mirror Descent and Multi-Level Methods</a></li>
+<li><a href="4/S9.pdf" data-smd-id="s112">Randomized Algorithms</a></li>
+<li><a href="4/S10.pdf" data-smd-id="s113">Stochastic Subgradient</a></li>
+<li><a href="4/S11.pdf" data-smd-id="s114">Variance-Reduced Stochastic Gradient</a></li>
+<li><a href="4/L12.5.pdf" data-smd-id="s115">Kernel Methods and Fenchel Duality</a></li>
+<li><a href="4/S12.pdf" data-smd-id="s116">Online Learning</a></li>
+<li><a href="4/S13.pdf" data-smd-id="s117">Over-Parameterized Models</a></li>
 </ul>
 <h3>Part 5: Machine Learning Reading Group</h3>
 <ul>
-<li><a href="4/parallelDistributed.pdf">Parallel and Distributed Machine Learning</a></li>
-<li><a href="4/onlineActiveCausal.pdf">Online, Active, and Causal Learning</a></li>
-<li><a href="4/reinforcementLearning.pdf">Reinforcement Learning</a></li>
-<li><a href="4/assorted.pdf">Overview of Other Large/Notable Topics</a></li>
+<li><a href="4/parallelDistributed.pdf" data-smd-id="s119">Parallel and Distributed Machine Learning</a></li>
+<li><a href="4/onlineActiveCausal.pdf" data-smd-id="s120">Online, Active, and Causal Learning</a></li>
+<li><a href="4/reinforcementLearning.pdf" data-smd-id="s121">Reinforcement Learning</a></li>
+<li><a href="4/assorted.pdf" data-smd-id="s122">Overview of Other Large/Notable Topics</a></li>
 </ul>
