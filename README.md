@@ -899,9 +899,9 @@ Discriminant Updates</a></li>
 <ul>
 <li><a href="4/overview.pdf">Overview</a></li>
 <li><a href="4/L2.pdf">Exploratory Data Analysis</a></li>
-<li><a href="4/L3.pdf">Decision Trees</a>&nbsp;(<a href="4/Notes/bigO.pdf">Notes on Big-O Notation</a>)</li>
-<li><a href="4/L4.pdf">Fundamentals of Learning</a>&nbsp;(<a href="4/Notes/notation.pdf">Notation Guide</a>)</li>
-<li><a href="4/L5.pdf">Probabilistic Classifiers</a>&nbsp;(<a href="4/Notes/probabilitySlides.pdf">Probability Slides</a>,&nbsp;<a href="4/Notes/probability.pdf">Notes on Probability</a>)</li>
+<li><a href="4/L3.pdf">Decision Trees</a>&nbsp;(<a href="4/bigO.pdf">Notes on Big-O Notation</a>)</li>
+<li><a href="4/L4.pdf">Fundamentals of Learning</a>&nbsp;(<a href="4/notation.pdf">Notation Guide</a>)</li>
+<li><a href="4/L5.pdf">Probabilistic Classifiers</a>&nbsp;(<a href="4/probabilitySlides.pdf">Probability Slides</a>,&nbsp;<a href="4/probability.pdf">Notes on Probability</a>)</li>
 <li><a href="4/L6.pdf">Non-Parametric Models</a></li>
 <li><a href="4/L7.pdf">Ensemble Methods</a></li>
 </ul>
@@ -914,7 +914,7 @@ Discriminant Updates</a></li>
 </ul>
 <h4>3. Linear Models</h4>
 <ul>
-<li><a href="4/L12.pdf">Least Squares</a>&nbsp;(<a href="4/Notes/calculus.pdf">Notes on Calculus</a>,&nbsp;<a href="4/2009_Notes_LinearAlgebra.pdf">Notes on Linear Algebra</a>,&nbsp;<a href="4/Notes/linearQuadraticGradients.pdf">Notes on Linear/Quadratic Gradients</a>)</li>
+<li><a href="4/L12.pdf">Least Squares</a>&nbsp;(<a href="4/calculus.pdf">Notes on Calculus</a>,&nbsp;<a href="4/2009_Notes_LinearAlgebra.pdf">Notes on Linear Algebra</a>,&nbsp;<a href="4/linearQuadraticGradients.pdf">Notes on Linear/Quadratic Gradients</a>)</li>
 <li><a href="4/L13.pdf">Nonlinear Regression</a></li>
 <li><a href="4/L14.pdf">Gradient Descent</a></li>
 <li><a href="4/L15.pdf">Robust Regression</a></li>
@@ -928,7 +928,7 @@ Discriminant Updates</a></li>
 <li><a href="4/L23.pdf">Kernel Methods</a></li>
 <li><a href="4/L24.pdf">Stochastic Gradient</a></li>
 <li><a href="4/L25.pdf">Boosting</a></li>
-<li><a href="4/L26.pdf">MLE and MAP</a>&nbsp;(<a href="4/Notes/max.pdf">Notes on Max and Argmax</a>)</li>
+<li><a href="4/L26.pdf">MLE and MAP</a>&nbsp;(<a href="4/max.pdf">Notes on Max and Argmax</a>)</li>
 </ul>
 <h4>4. Latent-Factor Models</h4>
 <ul>
@@ -959,7 +959,7 @@ Discriminant Updates</a></li>
 <ul>
 <li><a href="4/540-W20/L1.pdf">340 Overview</a></li>
 <li><a href="4/540-W20/L2.pdf">Fundamentals of Learning</a></li>
-<li><a href="4/540-W20/L3.pdf">Convexity</a>&nbsp;(<a href="4/Notes/norms.pdf">Notes on Norms</a>)</li>
+<li><a href="4/540-W20/L3.pdf">Convexity</a>&nbsp;(<a href="4/norms.pdf">Notes on Norms</a>)</li>
 <li><a href="4/540-W20/L4a.pdf">How Much Data?</a></li>
 </ul>
 <h4>B. Density Estimation</h4>
@@ -969,7 +969,7 @@ Discriminant Updates</a></li>
 <li><a href="4/540-W20/L6.pdf">Multivariate Gaussians</a></li>
 <li><a href="4/540-W20/L7.pdf">Mixture Models</a></li>
 <li><a href="4/540-W20/L8.pdf">Generative Classifiers</a></li>
-<li><a href="4/540-W20/L9.pdf">Expectation Maximization</a>&nbsp;(<a href="4/Notes/EM.pdf">Notes on EM</a>)</li>
+<li><a href="4/540-W20/L9.pdf">Expectation Maximization</a>&nbsp;(<a href="4/EM.pdf">Notes on EM</a>)</li>
 <li><a href="4/540-W20/L10.pdf">Kernel Density Estimation</a></li>
 <li><a href="4/540-W19/L17.5.pdf">Probabilistic PCA, Factor Analysis, Independent Component Analysis</a></li>
 </ul>
@@ -1015,8 +1015,8 @@ Discriminant Updates</a></li>
 </ul>
 <h3>Part 4: Large-Scale Machine Learning</h3>
 <ul>
-<li><a href="4/540-W19/L3.pdf">Convex Optimization</a>&nbsp;(<a href="4/Notes/norms.pdf">Notes on Norms</a>)</li>
-<li><a href="4/5XX-S20/S1.pdf">Gradient Descent Progress</a>&nbsp;(<a href="4/Notes/convex.pdf">Notes on Convexity Inequalities</a>,&nbsp;<a href="4/differentiable.pdf">Notes on Implementing Gradient Descent</a>)</li>
+<li><a href="4/540-W19/L3.pdf">Convex Optimization</a>&nbsp;(<a href="4/norms.pdf">Notes on Norms</a>)</li>
+<li><a href="4/5XX-S20/S1.pdf">Gradient Descent Progress</a>&nbsp;(<a href="4/convex.pdf">Notes on Convexity Inequalities</a>,&nbsp;<a href="4/differentiable.pdf">Notes on Implementing Gradient Descent</a>)</li>
 <li><a href="4/5XX-S20/S2.pdf">Gradient Descent Convergence</a></li>
 <li><a href="4/5XX-S20/S3.pdf">Linear and Superlinear Convergence</a></li>
 <li><a href="4/5XX-S20/S4.pdf">Subgradient Methods</a></li>
@@ -1039,5 +1039,3 @@ Discriminant Updates</a></li>
 <li><a href="4/reinforcementLearning.pdf">Reinforcement Learning</a></li>
 <li><a href="4/assorted.pdf">Overview of Other Large/Notable Topics</a></li>
 </ul>
-
-
