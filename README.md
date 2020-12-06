@@ -380,7 +380,84 @@ Reduction by Locally Linear Embedding</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(5).pdf" style="text-decoration:none;">A Global Geometric Framework
 for Nonlinear Dimensionality Reduction</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(6).pdf" style="text-decoration:none;">Graphics Principles Cheat Sheet</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(7).pdf" style="text-decoration:none;">Neural Machine Translation and Sequence-to-sequence Models: A Tutorial</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(8).pdf" style="text-decoration:none;"> Exponential Families </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(9).pdf" style="text-decoration:none;">Variational Inference: A Review for Statisticians</a></li>
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(10).pdf" style="text-decoration:none;">Foundations of Data Science </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(11).pdf" style="text-decoration:none;">Optimization Methods for Large-Scale Machine Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(12).pdf" style="text-decoration:none;">Convex Optimization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(13).pdf" style="text-decoration:none;">Theoretical Computer Science Cheat Sheet</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(14).pdf" style="text-decoration:none;">Entropy, Relative Entropy, And Mutual Information</a></li>
+                              
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(15).pdf" style="text-decoration:none;">Information Theory
+And Statistics</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(16).pdf" style="text-decoration:none;">Lecture #7: Understanding and Using Principal
+Component Analysis (PCA)</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(17).pdf" style="text-decoration:none;">
+Lecture #9: The Singular Value Decomposition (SVD) and Low-Rank Matrix Approximations</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(18).pdf" style="text-decoration:none;">CS224n: Natural Language Processing with Deep
+Learning (Lecture Notes: Part I)</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(19).pdf" style="text-decoration:none;">Super VIP Cheatsheet: Machine Learning</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(20).pdf" style="text-decoration:none;">
+CS229 Lecture notes</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(21).pdf" style="text-decoration:none;">Linear Algebra Review and Reference</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(22).pdf" style="text-decoration:none;">Lecture notes (Roger Grosse)</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(23).pdf" style="text-decoration:none;">Data Mining, Inference, and Prediction</a></li> 
  
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(24).pdf" style="text-decoration:none;">A Primer on Neural Network Models
+for Natural Language Processing</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(25).pdf" style="text-decoration:none;">Training generative neural networks via Maximum Mean Discrepancy optimization</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(26).pdf" style="text-decoration:none;">Common tests are linear models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(27).pdf" style="text-decoration:none;">
+Linear Algebra Abridged</a></li>
+   
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(28).pdf" style="text-decoration:none;">The Matrix Calculus You Need For Deep Learning</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(29).pdf" style="text-decoration:none;">Measure, Integration
+and Real Analysis</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(30).pdf" style="text-decoration:none;">Importance Weighted Autoencoders</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(31).pdf" style="text-decoration:none;">The Variational Fair Autoencoder</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(32).pdf" style="text-decoration:none;">
+A note on the evaluation of generative models</a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(33).pdf" style="text-decoration:none;">Adversarial Autoencoders</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(34).pdf" style="text-decoration:none;">Neural Variational Inference for Text Processing</a></li> 
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(35).pdf" style="text-decoration:none;">Attribute2Image: Conditional Image Generation from Visual Attributes</a></li> 
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(36).pdf" style="text-decoration:none;">Latent Variable Modeling with Diversity-Inducing Mutual Angular Regularization</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(37).pdf" style="text-decoration:none;">Autoencoding beyond pixels using a learned similarity metric</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(38).pdf" style="text-decoration:none;">Neighborhood-aware autoencoder for missing value imputation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(39).pdf" style="text-decoration:none;">Variational Inference: A Review for Statisticians</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(40).pdf" style="text-decoration:none;">Weakly-supervised Disentangling with Recurrent Transformations for 3D View Synthesis</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(41).pdf" style="text-decoration:none;">How to Train Deep Variational Autoencoders and Probabilistic Ladder Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(42).pdf" style="text-decoration:none;">Generating Images with Perceptual Similarity Metrics based on Deep Networks</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(43).pdf" style="text-decoration:none;">Auxiliary Deep Generative Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(44).pdf" style="text-decoration:none;">Variational methods for Conditional Multimodal Deep Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(45).pdf" style="text-decoration:none;">Variational Autoencoder for Semi-supervised Text Classification</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(46).pdf" style="text-decoration:none;">Composing graphical models with neural networks for structured representations and fast inference</a></li> 
+                             
  
  
  
