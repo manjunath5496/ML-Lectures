@@ -1067,5 +1067,262 @@ Statistics for Programmers</a></li>
 <li><a href="Session%2015%20(Anomalies).pdf">Anomalies</a></li>
 <li><a href="Session%2016%20(Analyzing).pdf">Analyzing</a></li>
 </ul>
+</br>
+<ul id="grad">
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m390c_AGnotes.pdf" data-smd-id="s6">Algebraic Geometry</a></p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_Raskin_AG_notes.pdf" data-smd-id="s7">Algebraic Geometry</a></p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_QFT_notes.pdf" data-smd-id="s8">Applications of QFT to Geometry</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_BrSt_notes.pdf" data-smd-id="s9">Bridgeland Stability</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m382d_notes.pdf" data-smd-id="s10">Differential Topology</a></p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_EHT_notes.pdf" data-smd-id="s11">Equivariant Homotopy Theory</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m390c_GLnotes.pdf" data-smd-id="s14">Geometric Langlands</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_IND_notes.pdf" data-smd-id="s15">Index Theory</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_Knotes.pdf" data-smd-id="s16"><em>K</em>-Theory</a></p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_ADHM_notes.pdf" data-smd-id="s17">Mathematical Gauge Theory</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m393c_notes.pdf" data-smd-id="s18">Mathematical Physics</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_GW_notes.pdf" data-smd-id="s19">Mirror Symmetry</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m381c_notes.pdf" data-smd-id="s20">Measure Theory</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m383c_notes.pdf" data-smd-id="s21">Methods of Applied Mathematics</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_Morse_notes.pdf" data-smd-id="s22">Morse Theory</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/cs395t_notes.pdf" data-smd-id="s23">Quantum Complexity Theory</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/introductory_workshop_quantum_symmetries.pdf" data-smd-id="s24">Quantum symmetries</a></p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_RHTnotes.pdf" data-smd-id="s26">Rational Homotopy Theory</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_RT_notes.pdf" data-smd-id="s27">Representation Theory</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_RSnotes.pdf" data-smd-id="s28">Riemann Surfaces</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_RG_notes.pdf" data-smd-id="s29">Riemannian Geometry</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_GT_notes.pdf" data-smd-id="s30">Seiberg-Witten Theory and Four-Manifold Topology</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/m392c_Spin_notes.pdf" data-smd-id="s31">Spin Geometry</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/topological_and_geometric_methods_in_qft.pdf" data-smd-id="s32">Topological and geometric methods in QFT</a></p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/phy392t_notes.pdf" data-smd-id="s34">Topological phases of matter</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="https://web.ma.utexas.edu/users/a.debray/lecture_notes/s20_tqft.pdf" data-smd-id="s35">Topological quantum field theory</a></p>
+</li>
 
-
+<li>
+<p><a href="5/summer_16_algebraic_geometry.pdf" data-smd-id="s36">Summer 2016</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="5/fall_16_algebraic_groups.pdf" data-smd-id="s39">Fall 2016</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="5/s17_geometric_Langlands.pdf" data-smd-id="s42">Geometric Langlands Seminar</a></p>
+</li>
+<li>
+<p><a href="5/f17_geometric_Satake.pdf" data-smd-id="s43">Geometric Satake Seminar</a></p>
+</li>
+<li>
+<p><a href="5/s18_higher_symmetries.pdf" data-smd-id="s45">Spring 2018</a></p>
+</li>
+<li>
+<p><a href="5/u18_higher_symmetries.pdf" data-smd-id="s46">Summer 2018</a></p>
+</li>
+<li>
+<p><a href="5/f18_vertex_algebras.pdf" data-smd-id="s47">Fall 2018</a></p>
+</li>
+<li>
+<p><a href="5/s19_gst.pdf" data-smd-id="s48">Spring 2019</a></p>
+</li>
+<li>
+<p><a href="5/f19_gst.pdf" data-smd-id="s49">Fall 2019</a></p>
+</li>
+<li>
+<p><a href="5/s18_Gromov_Witten.pdf" data-smd-id="s50">Gromov-Witten Theory Seminar</a></p>
+</li>
+<li>
+<p><a href="5/summer_16_homotopy_theory.pdf" data-smd-id="s52">Summer 2016</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="5/fall_16_Waldhausen.pdf" data-smd-id="s57">Fall 2016</a></p>
+</li>
+<li>
+<p><a href="5/s17_algebraic_k_theory.pdf" data-smd-id="s59">Spring 2017</a></p>
+</li>
+<li>
+<p><a href="5/f17_Goodwillie_calculus.pdf" data-smd-id="s61">Fall 2017</a></p>
+</li>
+<li>
+<p><a href="5/f18_greek_letter_elements.pdf" data-smd-id="s62">Fall 2018</a>&nbsp;</p>
+</li>
+<li>
+<p><a href="5/s19_furuta.pdf" data-smd-id="s64">Spring 2019</a></p>
+</li>
+<li>
+<p><a href="5/f20_juvitop.pdf" data-smd-id="s65">Fall 2020</a></p>
+</li>
+<li>
+<p><a href="5/pcmi_prep.pdf" data-smd-id="s67">PCMI Preparatory Seminar</a></p>
+</li>
+<li>
+<p><a href="5/s17_quantum_topology_categorification.pdf" data-smd-id="s69">Quantum Topology and Categorification Seminar</a></p>
+</li>
+<li>
+<p><a href="5/cobordism_approach.pdf" data-smd-id="s80">The comparison of two cohomology operations</a></p>
+</li>
+<li>
+<p><a href="5/roundabout_pinc.pdf" data-smd-id="s81">Fun with 𝓔(1)-modules and pin<sup><em>c</em></sup>&nbsp;bordism</a></p>
+</li>
+<li>
+<p><a href="5/string_ceta.pdf" data-smd-id="s82">2-local string bordism and the Adams spectral sequence</a></p>
+</li>
+<li>
+<p><a href="5/bordism.pdf" data-smd-id="s84">Bordism and invertible field theories</a></p>
+</li>
+<li>
+<p><a href="5/msri_4_1.pdf" data-smd-id="s85">Topological phases and topological field theories</a></p>
+</li>
+<li>
+<p><a href="5/foundry_slides.pdf" data-smd-id="s86">Lattice models and TQFTs</a></p>
+</li>
+<li>
+<p><a href="5/idea_of_cohomology.pdf" data-smd-id="s87">An Introduction to Cohomology</a></p>
+</li>
+<li>
+<p><a href="5/set_talk.pdf" data-smd-id="s88">The Card Game SET and Its Mathematics</a></p>
+</li>
+<li>
+<p><a href="5/using_xy.pdf" data-smd-id="s89"><span class="latex">X<sub>Y</sub></span>&nbsp;for Automata</a></p>
+</li>
+<li>
+<p><a href="5/109notes.pdf" data-smd-id="s90">CS 109</a></p>
+</li>
+<li>
+<p><a href="5/109l_notes.pdf" data-smd-id="s91">CS 109L</a></p>
+</li>
+<li>
+<p><a href="5/154notes.pdf" data-smd-id="s92">CS 154</a></p>
+</li>
+<li>
+<p><a href="5/155notes.pdf" data-smd-id="s93">CS 155</a></p>
+</li>
+<li>
+<p><a href="5/161notes.pdf" data-smd-id="s94">CS 161</a></p>
+</li>
+<li>
+<p><a href="5/229notes.pdf" data-smd-id="s95">CS 229</a></p>
+</li>
+<li>
+<p><a href="5/240h_notes.pdf" data-smd-id="s96">CS 240H</a></p>
+</li>
+<li>
+<p><a href="5/255notes.pdf" data-smd-id="s97">CS 255</a></p>
+</li>
+<li>
+<p><a href="5/355notes.pdf" data-smd-id="s98">CS 355</a></p>
+</li>
+<li>
+<p><a href="5/468notes.pdf" data-smd-id="s99">CS 468</a></p>
+</li>
+<li>
+<p><a href="5/193notes.pdf" data-smd-id="s100">CME 193</a></p>
+</li>
+<li>
+<p><a href="5/history154notes.pdf" data-smd-id="s101">History 154</a></p>
+</li>
+<li>
+<p><a href="5/53notes.pdf" data-smd-id="s102">Math 53</a></p>
+</li>
+<li>
+<p><a href="5/108notes.pdf" data-smd-id="s103">Math 108</a></p>
+</li>
+<li>
+<p><a href="5/116notes.pdf" data-smd-id="s104">Math 116</a></p>
+</li>
+<li>
+<p><a href="5/120notes.pdf" data-smd-id="s105">Math 120</a></p>
+</li>
+<li>
+<p><a href="5/121notes.pdf" data-smd-id="s106">Math 121</a></p>
+</li>
+<li>
+<p><a href="5/122notes.pdf" data-smd-id="s107">Math 122</a></p>
+</li>
+<li>
+<p><a href="5/137notes.pdf" data-smd-id="s108">Math 137</a></p>
+</li>
+<li>
+<p><a href="5/144notes.pdf" data-smd-id="s109">Math 144</a></p>
+</li>
+<li>
+<p><a href="5/145notes.pdf" data-smd-id="s110">Math 145</a></p>
+</li>
+<li>
+<p><a href="5/159notes.pdf" data-smd-id="s111">Math 159</a></p>
+</li>
+<li>
+<p><a href="5/171notes.pdf" data-smd-id="s112">Math 171</a></p>
+</li>
+<li>
+<p><a href="5/205a_notes.pdf" data-smd-id="s113">Math 205A</a></p>
+</li>
+<li>
+<p><a href="5/210a_notes.pdf" data-smd-id="s114">Math 210A</a></p>
+</li>
+<li>
+<p><a href="5/210c_notes.pdf" data-smd-id="s115">Math 210C</a></p>
+</li>
+<li>
+<p><a href="5/215b_notes.pdf" data-smd-id="s116">Math 215B</a></p>
+</li>
+<li>
+<p><a href="5/215c_notes.pdf" data-smd-id="s117">Math 215C</a></p>
+</li>
+<li>
+<p><a href="5/217a_notes.pdf" data-smd-id="s118">Math 217A</a></p>
+</li>
+<li>
+<p><a href="5/217c_notes.pdf" data-smd-id="s119">Math 217C</a></p>
+</li>
+<li>
+<p><a href="5/physicsnotes.pdf" data-smd-id="s120">Physics 40 series</a></p>
+</li>
+</ul>
