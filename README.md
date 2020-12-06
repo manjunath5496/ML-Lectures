@@ -666,6 +666,206 @@ Discriminant Updates</a></li>
  
 </ul>
 
+</br>
+
+<table border="0">
+<tbody>
+<tr>
+<td rowspan="2">
+<ol>
+<ol>
+<li><strong><span style="color: red;">Introduction</span></strong>
+<ol>
+<li><strong><span style="color: #000099;"><a href="3/1.1%20ML-Overview.pdf">Machine Learning-Overview</a></span></strong>(28MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/1.2%20SoftwareFrameworks.pdf">Python and ML Frameworks</a></span></strong>(13.9MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/1.3%20LinearAlgebra.pdf">Linear Algebra</a></span></strong>(4.5MB)&nbsp;</li>
+<li><strong><span style="color: #000099;"><a href="3/1.4%20Curve-Fitting.pdf">Example: Curve Fitting</a></span></strong>(934KB)</li>
+<li><strong><span style="color: #000099;"><a href="3/1.5%20Probability-Theory.pdf">Probability Theory</a></span></strong>(4.9MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/NumericalComputation.pdf">Numerical Computation</a></span></strong>(1.4MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/1.7%20Decision-Theory.pdf">Decision-Theory</a></span></strong>(488KB)</li>
+<li><strong><span style="color: #000099;"><a href="3/1.8%20Information-Theory.pdf">Information Theory</a></span></strong>(715KB)</li>
+</ol>
+</li>
+<li><strong><span style="color: red;">Probability Distributions</span></strong>
+<ol>
+<li><strong><span style="color: #000099;"><a href="3/Ch2.1-Discrete-Distributions.pdf">Discrete Distributions</a></span></strong>(1MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Ch2.2-Gaussian-Distribution.pdf">Gaussian Distribution</a></span></strong>(833KB)</li>
+<li><strong><span style="color: #000099;"><a href="3/8.5%20GaussianBNs.pdf">Gaussian Bayesian Networks</a></span></strong>(738KB)</li>
+</ol>
+</li>
+<li><strong><span style="color: red;">Linear Models for Regression</span></strong>
+<ol>
+<li><strong><span style="color: #000099;"><a href="3/3.1-Regression-BasisFns.pdf">Regression with Basis Functions</a></span></strong>(7.3MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/3.2-GradientDescent.pdf">Gradient Descent</a></span></strong>(3.2MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/3.3-Bias-Variance.pdf">Bias-Variance</a></span></strong>(950KB)</li>
+<li><strong><span style="color: #000099;"><a href="3/3.4-BayesianRegression.pdf">Bayesian Regression</a></span></strong>(2.5MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/3.5-BayesianModelComparison.pdf">Bayesian Model Comparison</a></span></strong>(478KB)</li>
+<li><strong><span style="color: #000099;"><a href="3/3.6-EvidenceApproximation.pdf">Evidence Approximation</a></span></strong>(746KB)</li>
+<li><strong><span style="color: #000099;"><a href="3/3.7-CS-Ranking.pdf">Example: Computer Science Ranking</a></span></strong>(126KB)</li>
+</ol>
+</li>
+<li><strong><span style="color: red;">Linear Models for Classification</span></strong>
+<ol start="0">
+<li><strong><span style="color: #000099;"><a href="3/4.0%20Overview.pdf">Overview</a></span></strong>(4.6MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/4.1%20DiscFns.pdf">Discriminant Functions</a></span></strong>(5MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/4.2%20Generative.pdf">Probabilistic Generative Models</a></span></strong>(1.3MB)</li>
+<li><strong><span style="color: #000099;">Probabilistic Discriminative Models</span></strong>
+<ol>
+<li><strong><span style="color: #000099;"><a href="3/4.3.1-FixedBasis.pdf">Fixed Basis Functions</a></span></strong>(254KB)</li>
+<li><strong><span style="color: #000099;"><a href="3/4.3.2-LogisticReg.pdf">Logistic Regression</a></span></strong>(3.6MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/4.3.3-IRLS.pdf">Iterative Reweighted Least Squares</a></span></strong>(5.1MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/4.3.4-MultiLogistic.pdf">Multiclass Logistic Regression</a></span></strong>(4.6MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/4.3.5-ProbitRegression.pdf">Probit Regression</a></span></strong>(356KB)</li>
+<li><strong><span style="color: #000099;"><a href="3/4.3.6-CanonicalLink.pdf">Canonical Link Functions</a></span></strong>(263KB)</li>
+</ol>
+</li>
+<li><strong><span style="color: #000099;"><a href="3/4.4-Laplace.pdf">Laplace Approximation&nbsp;</a></span></strong>(1.3MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/4.5.1-BayesLogistic.pdf">Bayesian Logistic Regression</a></span></strong>(1.1MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/4.5.2-VarBayesLogistic.pdf">Variational Bayesian Logistic Regression</a></span></strong>(3.3MB)&nbsp;</li>
+</ol>
+</li>
+<li><strong><span style="color: red;">Neural Networks</span></strong>
+<ol start="0&quot;">
+<li><strong><span style="color: #000099;"><a href="3/Chap5.0-Biology.pdf">Biology</a></span></strong>(4.5MB)&nbsp;</li>
+<li><strong><span style="color: #000099;"><a href="3/Chap5.1-FeedFor.pdf">Feed-forward Network Functions</a></span></strong>(5.3MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Chap5.2-Training.pdf">Network Training</a></span></strong>(2.6MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Chap5.3-BackProp.pdf">Backpropagation</a></span></strong>(8.7MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Chap5.4-Hessian.pdf">The Hessian Matrix</a></span></strong>(562KB)</li>
+<li><strong><span style="color: red;">Regularization in Neural Networks</span></strong>
+<ol>
+<li><strong><span style="color: #000099;"><a href="3/Chap5.5-Regularization.pdf">Norm Penalty: Bayesian Interpretation</a></span></strong>(1.2MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Chap5.5.6-ConvolutionalNetworks.pdf">Convolutional Networks</a></span></strong>(4.9MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Chap5.5.7-SoftWtSharing.pdf">Soft Weight Sharing</a></span></strong>(1.2MB)</li>
+</ol>
+</li>
+<li><strong><span style="color: #000099;"><a href="3/Chap5.6-MixDensityNetworks.pdf">Mixture Density Networks&nbsp;</a></span></strong>(634KB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Chap5.7-BayesianNeuralNetworks.pdf">Bayesian Neural Networks</a></span></strong>(716KB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Chap5.8-DeepLearning.pdf">Deep Learning Overview</a></span></strong>(5.2MB)</li>
+<li>See course on&nbsp;<strong><span style="color: #000099;"><a href="3/">Deep Learning</a></span></strong></li>
+</ol>
+</li>
+<li><strong><span style="color: red;">Kernel Methods</span></strong>
+<ol>
+<li><strong><span style="color: #000099;"><a href="3/Chap6.1-KernelMethods.pdf">Kernel Methods</a></span></strong>(6.3MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Chap6.2-RadialBasisFunctions.pdf">Radial Basis Function Networks</a></span></strong>(812KB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Chap6.3-GaussianProcesses.pdf">Gaussian Processes</a></span></strong>(6.8MB)</li>
+</ol>
+</li>
+<li><strong><span style="color: red;">Sparse Kernel Machines</span></strong>
+<ol>
+<li><strong><span style="color: #000099;"><a href="3/7.1-SVMs.pdf">Support Vector Machines</a></span></strong>(5.4MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/7.2-SVM-Overlap.pdf">SVM for Overlapping Distributions</a></span></strong>(1.3MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/7.3-SVM-Multiclass.pdf">Multiclass SVMs&nbsp;</a></span></strong>(1.4MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/7.4-SVM-LogisticReg.pdf">Relation to Logistic Regression&nbsp;</a></span></strong>(446KB)</li>
+</ol>
+</li>
+<li><strong><span style="color: red;">Probabilistic Graphical Models</span></strong><br />See Course on&nbsp;<strong><a href="http://www.cedar.buffalo.edu/~srihari/CSE674">Probabilistic Graphical Models</a></strong></li>
+<li><strong><span style="color: red;">Mixture Models and EM</span></strong>
+<ol start="0">
+<ol start="0">
+<li><strong><span style="color: #000099;"><a href="3/Ch9.0-UnsupervisedLearning.pdf">Unsupervised Learning</a></span></strong>(1.9MB)</li>
+</ol>
+</ol>
+</li>
+<li><strong><span style="color: #000099;"><a href="3/Ch9.1-Kmeans.pdf">K-means Clustering</a></span></strong>(1.4MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Ch9.2-MixturesofGaussians.pdf">Gaussian Mixture Models</a></span></strong>(1.5MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Ch9.3-LatentVariableViewofEM.pdf">Latent Variable View of EM</a></span></strong>(1.1MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Ch9.4-MixturesofBernoulli.pdf">Bernoulli Mixture Models</a></span></strong>(3.1MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Ch9.5-TheoreticBasisEM.pdf">Theoretical Basis of EM</a></span></strong>(693KB)</li>
+</ol>
+</ol>
+<ul>
+<li><strong><span style="color: red;">Approximate Inference</span></strong>
+<ol>
+<li><strong><span style="color: #000099;"><a href="3/10.1ApproximateInference.pdf">Approximate Inference</a></span></strong>(180KB)</li>
+<li><strong><span style="color: #000099;"><a href="3/10.2VariationalInference.pdf">Variational Inference</a></span></strong>(3.3MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/10.3VariationalGMM.pdf">Variational Mixture of Gaussians</a></span></strong>(1MB)</li>
+</ol>
+</li>
+<li><strong><span style="color: red;">Sampling Methods</span></strong>
+<ol>
+<li><strong><span style="color: #000099;"><a href="3/Ch11.1-NeedForSampling.pdf">Need for Sampling&nbsp;</a></span></strong>(6.6MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Ch11.2-BasicSampling.pdf">Basic Sampling Methods</a></span></strong>(2.5MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Ch11.3-MCMCSampling.pdf">Markov Chain Monte Carlo Sampling</a></span></strong>(815KB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Ch11.4-Gibbs%20Sampling.pdf">Gibbs Sampling</a></span></strong>(1.2MB)</li>
+</ol>
+</li>
+<li><strong><span style="color: red;">Continuous Latent Variables</span></strong>
+<ol>
+<li><strong><span style="color: #000099;">Principal Components Analysis</span></strong><br />See Section 3.2 of course on<strong><span style="color: #000099;">&nbsp;<a href="https://cedar.buffalo.edu/~srihari/CSE626/index.html">Data Mining</a></span></strong></li>
+<li><strong><span style="color: #000099;">Nonlinear Latent Variable Models</span></strong></li>
+</ol>
+</li>
+<li><strong><span style="color: red;">Sequential Data</span></strong>
+<ol>
+<li><strong><span style="color: #000099;"><a href="3/13.1-MarkovModels.pdf">Markov Models</a></span></strong>(2.5MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/13.2-HMMs.pdf">Hidden Markov Models</a></span></strong>(3.1MB)</li>
+<ol>
+<li><strong><span style="color: #000099;"><a href="3/13.2.1-MLE%20for%20HMM.pdf">Maximum Likelihood for the HMM</a></span></strong>(8.5MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/13.2.2-ForwardBackward.pdf">The forward-backward algorithm</a></span></strong>(15.9MB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Ch13.3-HMMExtensions.pdf">Extensions to HMMs</a></span></strong>(287KB)</li>
+</ol>
+<li><strong><span style="color: #000099;"><a href="3/Ch13.4-LinearDynamicalSystems.pdf">Linear Dynamical Systems</a></span></strong>(217KB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Ch13.5-ConditionalRandomFields.pdf">Conditional Random Fields</a></span></strong>(1.6MB)</li>
+</ol>
+</li>
+<li><strong><span style="color: red;">Combining Models</span></strong>
+<ol>
+<li><strong><a href="3/14.1%20CombiningModels.pdf">Combining Models</a></strong>(pdf, 1.7MB)</li>
+<li><strong><a href="3/14.2%20Bagging.pdf"><span style="color: #000099;">Bagging</span></a></strong>(pdf, 675KB)</li>
+<li><strong><a href="3/14.3%20Boosting.pdf"><span style="color: #000099;">Boosting</span></a></strong>(pdf, 1.1MB)</li>
+<li><strong><span style="color: #000099;">Tree Models</span></strong>
+<ol>
+<li><strong><a href="3/14.4.1%20Decision%20Trees.pdf"><span style="color: #000099;">Decision Trees</span></a></strong>(pdf, 1.9MB)</li>
+<li><strong><a href="3/14.4.2%20Learning%20Trees.pdf"><span style="color: #000099;">Learning Trees</span></a></strong>(pdf, 596KB)</li>
+</ol>
+</li>
+<li><strong><a href="3/14.6%20Random%20Forests.pdf"><span style="color: #000099;">Random Forests</span></a></strong>(pdf, 3.4MB)</li>
+</ol>
+</li>
+<li><strong><span style="color: red;">Reinforcement Learning</span></strong>
+<ol>
+<li><strong><a href="3/15.1-Reinf-Learning.pdf"><span style="color: #000099;">Reinforcement Learning Overview</span></a></strong>(pdf 4MB)</li>
+<li><strong><a href="3/15.2-LearningTask.pdf"><span style="color: #000099;">The Learning Task&nbsp;</span></a></strong>(pdf 1MB)</li>
+<li><strong><a href="3/15.3-Q-Learning.pdf"><span style="color: #000099;">Q-Learning</span></a>&nbsp;</strong>(pdf 6MB)</li>
+<li><strong><a href="3/15.4-NondeterministicQ.pdf"><span style="color: #000099;">Nondeterministic Q-Learning</span></a>&nbsp;</strong>(pdf 4.9MB)</li>
+<li><strong><a href="3/15.5-DeepReinforcement.pdf"><span style="color: #000099;">Deep Reinforcement Learning</span></a>&nbsp;</strong>(pdf 3.5MB)</li>
+</ol>
+</li>
+<li><strong><span style="color: red;">AI Ethics</span></strong>
+<ol>
+<li><strong><a href="3/16.1%20Ethics%20of%20AI.pdf"><span style="color: #000099;">AI Ethics</span></a></strong>(pdf 8.8MB)</li>
+</ol>
+</li>
+<li><strong><span style="color: red;">Trustworthy AI</span></strong>
+<ol>
+<li><strong><a href="3/17.1%20Trustworthy%20AI.pdf"><span style="color: #000099;">Trustworthy AI</span></a></strong>(pdf 2.9MB)</li>
+<li><strong><a href="3/17.2.1%20Explainable%20AI.pdf"><span style="color: #000099;">Explainable AI</span></a></strong>(pdf 24MB)</li>
+<ol>
+<li><strong><a href="3/17.2.2%20TeachingExplanation.pdf"><span style="color: #000099;">Explanation by Example</span></a></strong>(pdf 3.4MB)</li>
+<li><strong><a href="3/17.2.3%20DeepExplanation.pdf"><span style="color: #000099;">Deep Explanation</span></a></strong>(pdf 14.6MB)</li>
+<li><strong><a href="3/17.2.4%20CausalExplanation.pdf"><span style="color: #000099;">Causal Explanation</span></a></strong>(pdf 16.4MB)</li>
+</ol>
+</ol>
+</li>
+<li><strong>Concept Learning</strong>
+<ol>
+<li><strong><span style="color: #000099;"><a href="3/Chap18.1-Hypotheses.pdf">Hypothesis Space</a>&nbsp;</span></strong>(pdf, 111KB)</li>
+<li><strong><span style="color: #000099;"><a href="3/Chap18.2-CandidateElimination.pdf">Candidate Elimination</a></span></strong>&nbsp;(pdf,236KB)</li>
+</ol>
+</li>
+<li><strong>Computational Learning Theory</strong>
+<ol>
+<li><strong><a href="3/Chap19.Part1.pdf"><span style="color: #000099;">PAC Learning</span></a></strong>(pdf, 98KB)</li>
+<li><strong><a href="3/Chap19.Part2.pdf"><span style="color: #000099;">VC Dimension</span></a></strong>(pdf, 321KB)</li>
+<li><strong><a href="3/Chap19.Part3.pdf"><span style="color: #000099;">Mistake Bound</span></a></strong>(pdf, 51KB)</li>
+</ol>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 
