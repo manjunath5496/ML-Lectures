@@ -667,7 +667,9 @@ Discriminant Updates</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(92).pdf" style="text-decoration:none;">Neural Programmer-Interpreters</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(93).pdf" style="text-decoration:none;">Dueling Network Architectures for Deep Reinforcement Learning</a></li>
 
- 
+<li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(94).pdf" style="text-decoration:none;">scikit-learn user guide</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/ML-Lectures/blob/master/ml(95).pdf" style="text-decoration:none;">The Matrix Cookbook</a></li>
+
  
  
  
