@@ -1332,3 +1332,385 @@ Statistics for Programmers</a></li>
 <p><a href="5/physicsnotes.pdf" data-smd-id="s120">Physics 40 series</a></p>
 </li>
 </ul>
+</br>
+<h2>The collected works of <a href="https://en.wikipedia.org/wiki/William_Lawvere">F. W. Lawvere</a></h2>
+<table>
+<thead>
+<tr>
+<th align="left">Title</th>
+<th align="center">Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><a href="pdfs/1962-the-category-of-probabilistic-mappings.pdf">The Category of Probabilistic Mappings &ndash; With Applications to Stochastic Processes, Statistics, and Pattern Recognition</a></td>
+<td align="center">1962</td>
+</tr>
+<tr>
+<td align="left">Functorial Semantics of Algebraic Theories</td>
+<td align="center">1963</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1963-functorial-semantics-of-algebraic-theories-(short).pdf">Functorial Semantics of Algebraic Theories (short notice)</a></td>
+<td align="center">1963</td>
+</tr>
+<tr>
+<td align="left">Functorial Automata Theory (abstract)</td>
+<td align="center">1963</td>
+</tr>
+<tr>
+<td align="left">The group ring of a small category (<a href="pdfs/1963-the-group-ring-of-a-small-category-abstract.pdf">abstract</a>)</td>
+<td align="center">1963</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1964-an-elementary-theory-of-the-category-of-sets.pdf">An Elementary Theory of the Category of Sets (cf. 2005 long version with commentary)</a></td>
+<td align="center">1964</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1965-algebraic-theories-algebraic-categories-and-algebraic-functors.pdf">Algebraic Theories, Algebraic Categories, and Algebraic Functors</a></td>
+<td align="center">1965</td>
+</tr>
+<tr>
+<td align="left">Functorial Semantics of Elementary Theories (<a href="pdfs/1965-functorial-semantics-of-elementary-theories-abstract.pdf">abstract</a>)</td>
+<td align="center">1966</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1966-category-of-categories-as-a-foundation-for-mathematics.pdf">The Category of Categories as a Foundation for Mathematics</a></td>
+<td align="center">1966</td>
+</tr>
+<tr>
+<td align="left">Theories as Categories and the Completeness Theorem (<a href="pdfs/1966-theories-as-categories-and-the-completeness-theorem-abstract.pdf">abstract</a>)</td>
+<td align="center">1967</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1968-some-algebraic-problems-in-the-context-of-functorial-semantic-of-algebraic-theories.pdf">Some Algebraic Problems in the Context of Functorial Semantic of Algebraic Theories</a></td>
+<td align="center">1968</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1969-ordinal-sums-and-equational-doctrines.pdf">Ordinal Sums and Equational Doctrines</a></td>
+<td align="center">1969</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1969-diagonal-arguments-and-cartesian-closed-categories.pdf">Diagonal Arguments and Cartesian Closed Categories</a></td>
+<td align="center">1969</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1969-adjointness-in-foundations.pdf">Adjointness in Foundations</a></td>
+<td align="center">1969</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1970-equality-in-hyperdoctrines-and-comprehension-schema-as-an-adjoint-functor.pdf">Equality in Hyperdoctrines and Comprehension Schema as an Adjoint Functor</a></td>
+<td align="center">1970</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1970-quantifiers-and-sheaves.pdf">Quantifiers and Sheaves</a></td>
+<td align="center">1970</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1971-introduction-to-toposes-algebraic-geometry-and-logic.pdf">Introduction to "Toposes, Algebraic Geometry and Logic"</a></td>
+<td align="center">1971</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1972-perugia-lecture-notes.pdf">Theory of Categories over a Base Topos</a></td>
+<td align="center">1972</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1973-metric-spaces-generalized-logic-closed-categories.pdf">Metric Spaces, Generalized Logic, and Closed Categories</a></td>
+<td align="center">1973</td>
+</tr>
+<tr>
+<td align="left">Logic of Topoi: inside and outside</td>
+<td align="center">1974</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1975-introduction-to-model-theory-and-topoi.pdf">Introduction to "Model Theory &amp; Topoi"</a></td>
+<td align="center">1975</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1975-variable-sets-etendu-and-variable-structure-in-topoi.pdf">Variable Sets Etendu and Variable Structure in Topoi</a></td>
+<td align="center">1975</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1975-continuously-variable-sets-algebraic-geometry--geometric-logic.pdf">Continuously Variable Sets &ndash; Algebraic Geometry=Geometric Logic</a></td>
+<td align="center">1975</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1976-variable-quantities-and-variable-structures-in-topoi.pdf">Variable Quantities and Variable Structures in Topoi</a></td>
+<td align="center">1976</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1978-categorical-dynamics.pdf">Categorical Dynamics</a></td>
+<td align="center">1978</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1980-toward-the-description-in-a-smooth-topos-of-the-dynamically-possible-motions-and-deformations-of-a-continuous-body.pdf">Toward the Description in a Smooth Topos of the Dynamically Possible Motions and Deformations of a Continuous Body</a></td>
+<td align="center">1980</td>
+</tr>
+<tr>
+<td align="left">On C-&infin; functions</td>
+<td align="center">1981</td>
+</tr>
+<tr>
+<td align="left">Thermodynamics of deformations of continuous bodies, non homogeneous, with memory, far from equilibrium</td>
+<td align="center">1982</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1982-introduction-to-categories-in-continuum-physics.pdf">Introduction to "Categories in Continuum Physics"</a></td>
+<td align="center">1982</td>
+</tr>
+<tr>
+<td align="left">Measures on toposes</td>
+<td align="center">1983</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1984-functorial-remarks-on-the-general-concept-of-chaos.pdf">Functorial Remarks on the General Concept of Chaos</a></td>
+<td align="center">1984</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1984-state-categories-closed-categories-and-the-existence-of-semi-continuous-entropy-functions.pdf">State Categories Closed Categories and the Existence of Semi-continuous Entropy Functions</a></td>
+<td align="center">1984</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1986-state-categories-and-response-functors.pdf">State Categories and Response Functors</a></td>
+<td align="center">1986</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1986-categories-of-spaces-may-not-be-generalized-spaces-as-exemplified-by-directed-graphs.pdf">Categories of Spaces may not be Generalized Spaces as Exemplified by Directed Graphs</a></td>
+<td align="center">1986</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1986-taking-categories-seriously.pdf">Taking Categories Seriously</a></td>
+<td align="center">1986</td>
+</tr>
+<tr>
+<td align="left">Some "New" Mathematics Arising From the Study of Grassmann 1844</td>
+<td align="center">1987</td>
+</tr>
+<tr>
+<td align="left">Concepts and Problems in Mathematical Toposes (abstract)</td>
+<td align="center">1988</td>
+</tr>
+<tr>
+<td align="left">Fractional Exponents in Cartesian Closed Categories</td>
+<td align="center">1988</td>
+</tr>
+<tr>
+<td align="left">M&ouml;bius algebra of a category</td>
+<td align="center">1988</td>
+</tr>
+<tr>
+<td align="left">Toposes generated by codiscrete objects in combinatorial topology and functional analysis</td>
+<td align="center">1989</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1988-on-the-complete-lattice-of-essential-localizations.pdf">On the Complete Lattice of Essential Localizations (with G.M. Kelly)</a></td>
+<td align="center">1988</td>
+</tr>
+<tr>
+<td align="left">Intrinsic boundary in certain mathematical toposes exemplify logical operators not passively preserved by substitution</td>
+<td align="center">1989</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1989-display-of-graphics-and-their-applications-exemplifed-by-2-categories-and-the-hegelian-taco.pdf">Display of Graphics and their Applications Exemplifed by 2 Categories and the Hegelian Taco</a></td>
+<td align="center">1989</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1989-qualitative-distinctions-between-some-toposes-of-generalized-graphs.pdf">Qualitative Distinctions Between Some Toposes of Generalized Graphs</a></td>
+<td align="center">1989</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1991-intrinsic-co-heyting-boundaries-and-the-leibniz-rule-in-certain-toposes.pdf">Intrinsic Co-Heyting Boundaries and the Leibniz Rule in Certain Toposes</a></td>
+<td align="center">1991</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1991-more-on-graphic-toposes.pdf">More on Graphic Toposes</a></td>
+<td align="center">1991</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1991-some-thoughts-on-the-future-of-category-theory.pdf">Some Thoughts on the Future of Category Theory</a></td>
+<td align="center">1991</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1992-categories-of-space-and-quantity.pdf">Categories of Space and Quantity</a></td>
+<td align="center">1992</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1994-cohesive-toposes-and-cantors-lauter-einsen.pdf">Cohesive Toposes and Cantor's Lauter Einsen</a></td>
+<td align="center">1994</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1994-tools-for-the-advancement-of-objective-logic-closed-categories-and-toposes.pdf">Tools for the Advancement of Objective Logic Closed Categories and Toposes</a></td>
+<td align="center">1994</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1996-adjoints-in-and-among-bicategories.pdf">Adjoints in and among Bicategories</a></td>
+<td align="center">1996</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1996-grassmans-dialectics-and-category-theory.pdf">Grassmann's Dialectics and Category Theory</a></td>
+<td align="center">1996</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1996-unity-and-identity-of-opposites-in-calculus-and-physics.pdf">Unity and Identity of Opposites in Calculus and Physics</a></td>
+<td align="center">1996</td>
+</tr>
+<tr>
+<td align="left">Algebra Step by Step</td>
+<td align="center">1997</td>
+</tr>
+<tr>
+<td align="left">Linearization Revisited (abstract)</td>
+<td align="center">1997</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1997-toposes-of-laws-of-motion.pdf">Toposes of Laws of Motion</a></td>
+<td align="center">1997</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1997-volterras-functionals-and-covariant-cohesion-of-space.pdf">Volterra's Functionals and Covariant Cohesion of Space</a></td>
+<td align="center">1997</td>
+</tr>
+<tr>
+<td align="left">Everyday physics of extended bodies or why functionals need analyzing (abstract, cf. paper 2017)</td>
+<td align="center">1998</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1998-outline-of-synthetic-differential-geometry.pdf">Outline of Synthetic Differential Geometry</a></td>
+<td align="center">1998</td>
+</tr>
+<tr>
+<td align="left">Are Homotopy Types the Same As Infinitesimal Skeleta? (<a href="pdfs/1998-are-homotopy-types-the-same-as-infinitesimal-skeleta-abstract.pdf">abstract</a>)</td>
+<td align="center">1998</td>
+</tr>
+<tr>
+<td align="left">Categorical Analyses of the Whole/Part Relation (abstract)</td>
+<td align="center">1998</td>
+</tr>
+<tr>
+<td align="left">Categorie e Spazio: Un Profilo</td>
+<td align="center">1999</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/1999-kinship-and-mathematical-categories.pdf">Kinship and Mathematical Categories</a></td>
+<td align="center">1999</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2000-comments-on-the-development-of-topos-theory.pdf">Comments on the Development of Topos Theory</a></td>
+<td align="center">2000</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2000-cardone-interview.pdf">The Role of Cartesian Closed Categories in Foundations (Interview with Felice Cardone)</a></td>
+<td align="center">2000</td>
+</tr>
+<tr>
+<td align="left">Explicit foundational concepts in the teaching of mathematics</td>
+<td align="center">2001</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2001-categorical-algebra-for-continuum-micro-physics.pdf">Categorical Algebra for Continuum Micro Physics</a></td>
+<td align="center">2001</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2003-on-the-duality-between-varieties-and-algebraic-theories.pdf">On the Duality Between Varietes and Algebraic Theories</a>&nbsp;(with J. Ad&aacute;mek &amp; J. Rosick&yacute;)</td>
+<td align="center">2003</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2001-how-algebraic-is-algebra.pdf">How Algebraic is Algebra?</a>&nbsp;(with J. Ad&aacute;mek &amp; J. Rosick&yacute;)</td>
+<td align="center">2001</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2002-linearization-of-graphic-toposes-via-coxeter-groups.pdf">Linearization of Graphic Toposes via Coxeter Groups</a></td>
+<td align="center">2002</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2003-foundations-and-applications-axiomatization-and-education.pdf">Foundations and Applications &ndash; Axiomatization and Education</a></td>
+<td align="center">2003</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2003-continuous-categories-revisited.pdf">Continuous Categories Revisited</a>&nbsp;(with J. Ad&aacute;mek &amp; J. Rosick&yacute;)</td>
+<td align="center">2003</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2004-functorial-semantics-of-algebraic-theories-etc.pdf">Functorial Semantics of Algebraic Theories and Some Algebraic Problems in the Context of Functorial Semantics of Algebraic Theories</a></td>
+<td align="center">2004</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2004-functorial-concepts-of-complexity-for-finite-automata.pdf">Functorial Concepts of Complexity for Finite Automata</a></td>
+<td align="center">2004</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2004-left-and-right-adjoint-operations-on-spaces-and-data-types.pdf">Left and Right Adjoint Operations on Spaces and Data Types</a></td>
+<td align="center">2004</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2005-an-elementary-theory-of-the-category-of-sets-with-commentary.pdf">An Elementary Theory of the Category of Sets (long version) with commentary</a></td>
+<td align="center">2005</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2005-book-reviews.pdf">Grassmann Book Reviews</a></td>
+<td align="center">2005</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2006-john-isbell's-adequate-subcategories.pdf">John Isbell's Adequate Subcategories</a></td>
+<td align="center">2006</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2007-axiomatic-cohesion.pdf">Axiomatic Cohesion</a></td>
+<td align="center">2007</td>
+</tr>
+<tr>
+<td align="left">Cohesive toposes: combinatorial and infinitesimal cases (<a href="pdfs/2008-cohesive-toposes-combinatorial-and-infinitesimal-cases.pdf">lecture notes</a>)</td>
+<td align="center">2008</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2008-core-varieties-extensivity-and-rig-geometry.pdf">Core Varieties Extensivity and Rig Geometry</a></td>
+<td align="center">2008</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2008-picado-interview.pdf">Interview with Maria Manuel Clementino and Jorge Picado</a></td>
+<td align="center">2008</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2009-foreword-to-algebraic-theories.pdf">Foreword To "Algebraic Theories"</a></td>
+<td align="center">2009</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2009-open-problems-in-topos-theory.pdf">Open Problems in Topos Theory</a></td>
+<td align="center">2009</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2010-the-hopf-algebra-of-mobius-intervals.pdf">The Hopf Algebra of M&ouml;bius Intervals</a>&nbsp;(with M. Menni)</td>
+<td align="center">2010</td>
+</tr>
+<tr>
+<td align="left">Categorical Dynamics (<a href="pdfs/2011-categorical-dynamics-abstract.pdf">abstract</a>)</td>
+<td align="center">2011</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2011-euler's-continuum-functorially-vindicated.pdf">Euler's Continuum Functorially Vindicated</a></td>
+<td align="center">2011</td>
+</tr>
+
+<tr>
+<td align="left">What are Foundations of Geometry and Algebra? (<a href="pdfs/Lawvere.pdf" rel="nofollow">abstract</a>) (<a href="pdfs/Fifty_Years_of_Functorial_Semantics.pdf" rel="nofollow">transcript</a>)</td>
+<td align="center">2013</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2015-internal-choice-holds-in-the-discrete-part-of-any-cohesive-topos-satisfying-stable-connected-codiscreteness.pdf">Internal Choice Holds in the Discrete Part of any Cohesive Topos Satisfying Stable Connected Codiscreteness</a>&nbsp;(with M. Menni)</td>
+<td align="center">2015</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2015-alexander-grothendieck-and-the-concept-of-space.pdf">Alexander Grothendieck and the Concept of Space</a></td>
+<td align="center">2015</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2016-birkhoffs-theorem-from-a-geometric-perspective-a-simple-example.pdf">Birkhoff's Theorem from a Geometric Perspective: A Simple Example</a></td>
+<td align="center">2016</td>
+</tr>
+<tr>
+<td align="left"><a href="pdfs/2017-everyday-physics-of-extended-bodies-or-why-functionals-need-analyzing.pdf">Everyday physics of extended bodies or why functionals need analyzing</a></td>
+<td align="center">2017</td>
+</tr>
+</tbody>
+</table>
+
